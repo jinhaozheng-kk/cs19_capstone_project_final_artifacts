@@ -1,0 +1,1 @@
+Proposal 2 was integrated into L3.8 time moderation. 136 Model C rows processed. 95 rows matched Proposal 2 time evidence. 14 rows triggered normalized time caps. 12 rows had changed L3 usability scores. No score increased. Accessibility scores are unchanged.

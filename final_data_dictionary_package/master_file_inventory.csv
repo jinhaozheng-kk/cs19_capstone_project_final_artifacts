@@ -1,0 +1,96 @@
+File Name,File Type,Dataset Layer,Main Purpose,Used By,Notes
+01_run_model_c_proposal1.ipynb,workflow / notebook,scoring,Executable notebook for baseline Model C / Proposal 1 accessibility and usability scoring.,Model C / Proposal 1,
+02_proposal2_time_integration.ipynb,workflow / notebook,scoring,Executable notebook for Proposal 2 participant-normalized time moderation.,Proposal 2,
+03_manual_review_validation.ipynb,workflow / notebook,validation,Executable notebook for manual review validation sample and scoring comparison.,Manual Review / Validation,
+04_tester_quality_rating.ipynb,workflow / notebook,scoring,Executable notebook for independent Tester Quality Rating.,Tester Quality,
+05_presentation_assets.ipynb,workflow / notebook,code,Executable notebook for presentation charts and visual assets.,Reference / Supporting,
+06_proposal2_rollup_outputs.ipynb,workflow / notebook,scoring,"Executable notebook for task-, participant-, and project-level Proposal 2 rollups.",Proposal 2,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,xlsx,raw,"LLM-derived insight evidence table with tester, task, category, severity, friction type, confidence, and evidence fields.",All,1545 rows × 16 columns
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,xls-like,scoring,Raw survey metadata or survey definition table.,All,21 rows × 55 columns; Extension is .xls but the file was successfully parsed as delimited text in this inspection.
+Model_C_output.csv,csv,scoring,Model C / Proposal 1 combined result workbook or export.,Model C / Proposal 1,84 rows × 8 columns
+README_How_To_Run.md,documentation,documentation,"Human-readable documentation, methodology, findings, or summary output.",Reference / Supporting,
+aami-website-assignments(2).csv,csv,raw,"Raw participant roster/cohort table with tester names, opt-in status, and cohort codes.",All,45 rows × 3 columns
+aami-website-survey-answers(1).csv,csv,raw,Raw answer fact table at response-question granularity with JSON-like answer payloads.,All,714 rows × 9 columns
+aami-website-survey-questions.csv,csv,raw,"Raw survey question metadata defining question IDs, task links, text, type, order, and option metadata.",All,43 rows × 20 columns
+aami-website-survey-responses(2).csv,csv,raw,"Raw survey response/session metadata linking surveys, projects, testers, and completion status.",All,21 rows × 11 columns
+aami-website-surveys.csv,csv,raw,Raw survey metadata or survey definition table.,All,1 rows × 12 columns
+aami-website-tasks(1).csv,csv,raw,"Raw task metadata table defining task order, title, instructions, time guide, and task options.",All,11 rows × 9 columns
+l3_score_before_time.csv,csv,scoring,Pre-Proposal-2 L3 usability score extract used as the baseline for time moderation.,Proposal 2,136 rows × 5 columns
+manual_review_cases.csv,csv,validation,"Manual review validation cases with evidence excerpts, manual labels, and score comparison fields.",Manual Review / Validation,18 rows × 25 columns
+manual_review_error_details.csv,csv,validation,Manual review error detail table comparing model/raw/Proposal 2 scores to reviewer estimates.,Manual Review / Validation,14 rows × 12 columns
+manual_review_scoring_rubric.csv,csv,validation,Rubric reference for interpreting manual review labels and scoring anchors.,Manual Review / Validation,5 rows × 4 columns
+manual_review_validation_summary.csv,csv,validation,"Aggregate validation metrics, including MAE and closest-score counts for candidate scoring outputs.",Manual Review / Validation,4 rows × 9 columns
+nb03_examples_cell.py,code,code,"Reference or runnable Python script supporting validation, tester quality, or notebook cell logic.",Manual Review / Validation,
+nb03_findings_cell.py,code,code,"Reference or runnable Python script supporting validation, tester quality, or notebook cell logic.",Manual Review / Validation,
+nb04_tq_script.py,code,code,"Reference or runnable Python script supporting validation, tester quality, or notebook cell logic.",Tester Quality,
+outputs/l3_score_before_time.csv,csv,output,Pre-Proposal-2 L3 usability score extract used as the baseline for time moderation.,Proposal 2,136 rows × 6 columns
+outputs/manual_review_outputs/manual_review_case_examples.md,documentation,validation,"Human-readable documentation, methodology, findings, or summary output.",Manual Review / Validation,
+outputs/manual_review_outputs/manual_review_cases.csv,csv,validation,"Manual review validation cases with evidence excerpts, manual labels, and score comparison fields.",Manual Review / Validation,18 rows × 25 columns
+outputs/manual_review_outputs/manual_review_cases_draft.csv,csv,validation,"Manual review validation cases with evidence excerpts, manual labels, and score comparison fields.",Manual Review / Validation,18 rows × 31 columns
+outputs/manual_review_outputs/manual_review_error_details.csv,csv,validation,Manual review error detail table comparing model/raw/Proposal 2 scores to reviewer estimates.,Manual Review / Validation,14 rows × 12 columns
+outputs/manual_review_outputs/manual_review_findings.md,documentation,validation,"Human-readable documentation, methodology, findings, or summary output.",Manual Review / Validation,
+outputs/manual_review_outputs/manual_review_quality_check.md,documentation,validation,"Human-readable documentation, methodology, findings, or summary output.",Manual Review / Validation,
+outputs/manual_review_outputs/manual_review_scoring_rubric.csv,csv,validation,Rubric reference for interpreting manual review labels and scoring anchors.,Manual Review / Validation,5 rows × 4 columns
+outputs/manual_review_outputs/manual_review_validation_summary.csv,csv,validation,"Aggregate validation metrics, including MAE and closest-score counts for candidate scoring outputs.",Manual Review / Validation,4 rows × 9 columns
+outputs/model_c3_proposal1_results.xlsx,xlsx,output,Model C / Proposal 1 combined result workbook or export.,Model C / Proposal 1,136 rows × 18 columns
+outputs/presentation_assets/acc_usa_score_comparison.png,visual asset,output,Presentation visual asset generated from project outputs.,Reference / Supporting,
+outputs/presentation_assets/audit_log_screenshot.png,visual asset,output,Presentation visual asset generated from project outputs.,Reference / Supporting,
+outputs/presentation_assets/implementation_pipeline_diagram.png,visual asset,output,Presentation visual asset generated from project outputs.,Reference / Supporting,
+outputs/presentation_assets/integrated_output_screenshot.png,visual asset,output,Presentation visual asset generated from project outputs.,Reference / Supporting,
+outputs/presentation_assets/model_c_integration_pipeline.png,visual asset,output,Presentation visual asset generated from project outputs.,Model C / Proposal 1,
+outputs/presentation_assets/previous_vs_current_progress.png,visual asset,output,Presentation visual asset generated from project outputs.,Reference / Supporting,
+outputs/presentation_assets/summary_validation_table.png,visual asset,output,Presentation visual asset generated from project outputs.,Manual Review / Validation,
+outputs/presentation_assets/tester_quality_band_chart.png,visual asset,scoring,Presentation visual asset generated from project outputs.,Tester Quality,
+outputs/proposal1_cohort_summary.csv,csv,output,Cohort-level summary of Proposal 1 scores.,Model C / Proposal 1,8 rows × 6 columns
+outputs/proposal1_df_insights.csv,csv,output,Processed insight evidence table used by Proposal 1 / Model C scoring.,Model C / Proposal 1; All,571 rows × 17 columns
+outputs/proposal1_project_summary.txt,summary / documentation,output,"Human-readable documentation, methodology, findings, or summary output.",Model C / Proposal 1,
+outputs/proposal1_rows.csv,csv,output,Row-level Model C / Proposal 1 scoring output before Proposal 2 time moderation.,Model C / Proposal 1,136 rows × 18 columns
+outputs/proposal1_task_summary.csv,csv,output,Task-level summary of Proposal 1 scores.,Model C / Proposal 1,4 rows × 7 columns
+outputs/proposal2_human_readable_summary.txt,summary / documentation,output,"Human-readable documentation, methodology, findings, or summary output.",Proposal 2,
+outputs/proposal2_integrated_l3_time_score.csv,csv,output,Main integrated row-level output combining Model C / Proposal 1 scores with Proposal 2 time features and after-time usability scores.,Proposal 2,136 rows × 31 columns
+outputs/proposal2_integration_summary.csv,csv,output,Project file included in the capstone deliverable package; inspect columns/notes for specific use.,Proposal 2,1 rows × 17 columns
+outputs/proposal2_rollup_participant.csv,csv,output,Participant-level rollup of Proposal 2 integrated output.,Proposal 2,26 rows × 9 columns
+outputs/proposal2_rollup_project.csv,csv,output,Project-level rollup of Proposal 2 integrated output.,Proposal 2,1 rows × 7 columns
+outputs/proposal2_rollup_task.csv,csv,output,Task-level rollup of Proposal 2 integrated output.,Proposal 2,4 rows × 8 columns
+outputs/proposal2_time_audit_log.csv,csv,output,"Proposal 2 audit log showing time caps, before/after scores, signals, confidence, and explanations.",Proposal 2,14 rows × 16 columns
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,csv,output,Time signal feature table used or recomputed for Proposal 2 integration.,Proposal 2,138 rows × 30 columns
+outputs/proposal2_unmatched_participants.csv,csv,output,Diagnostic output listing records that could not be matched during integration or tester-quality processing.,Proposal 2,0 rows × 4 columns
+outputs/proposal2_unmatched_tasks.csv,csv,output,"Raw task metadata table defining task order, title, instructions, time guide, and task options.",Proposal 2; All,7 rows × 5 columns
+outputs/tester_quality_outputs/tester_quality_case_examples.md,documentation,scoring,"Human-readable documentation, methodology, findings, or summary output.",Tester Quality,
+outputs/tester_quality_outputs/tester_quality_features.csv,csv,scoring,Participant-level engineered features used to compute Tester Quality Rating.,Tester Quality,21 rows × 28 columns
+outputs/tester_quality_outputs/tester_quality_methodology.md,documentation,scoring,"Human-readable documentation, methodology, findings, or summary output.",Tester Quality,
+outputs/tester_quality_outputs/tester_quality_quality_check.md,documentation,scoring,"Human-readable documentation, methodology, findings, or summary output.",Tester Quality,
+outputs/tester_quality_outputs/tester_quality_scores.csv,csv,scoring,"Final participant-level Tester Quality output with score, band, sub-scores, reasons, and review flag.",Tester Quality,21 rows × 17 columns
+outputs/tester_quality_outputs/tester_quality_summary.csv,csv,scoring,Aggregate Tester Quality distribution and summary metrics.,Tester Quality,16 rows × 2 columns
+outputs/tester_quality_outputs/unmatched_tester_quality_participants.csv,csv,scoring,Diagnostic output listing records that could not be matched during integration or tester-quality processing.,Tester Quality,1 rows × 4 columns
+proposal2_segments/Sharelinsonny_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,270 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/asma_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,201 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/carlpatrickrobinson_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,49 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/fjone7_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,377 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/gameoverdan_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,181 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/ghum_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,274 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/giuliaclemente26_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,106 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/gracieha22_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,67 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/info_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,196 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/laurenrosemetzler_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,171 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/margieflint_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,242 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/marychaunguyen_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,181 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/mgblackwell2001_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Model C / Proposal 1; Proposal 2,133 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/oliviamitchell22_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,82 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/rae_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,278 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/ramazankawish_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,236 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/reececraigie_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,240 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/reneerussell99_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,108 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/terryaflint17_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,247 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/thanoptions_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,118 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_segments/troyparnell_segments.csv,csv,transcript,Per-participant transcript segment file used for time evidence and manual review context.,Proposal 2,2 rows × 5 columns; One of 21 per-participant segment files.
+proposal2_time_signal_result.csv,csv,scoring,Time signal feature table used or recomputed for Proposal 2 integration.,Proposal 2,138 rows × 21 columns
+scripts/build_tester_quality_rating_orig.py,code,scoring,"Reference or runnable Python script supporting validation, tester quality, or notebook cell logic.",Tester Quality,
+scripts/run_manual_review_validation.py,code,validation,"Reference or runnable Python script supporting validation, tester quality, or notebook cell logic.",Manual Review / Validation,
+scripts/run_tester_quality_rating.py,code,scoring,"Reference or runnable Python script supporting validation, tester quality, or notebook cell logic.",Tester Quality,
+suncorp-insurance-projects(1).csv,csv,raw,Project metadata reference file for the Suncorp/AAMI study context.,All,1 rows × 23 columns
+task_segmentation_combined.csv,csv,transcript,Participant-task transcript segmentation table mapping approximate task windows to evidence phrases.,Reference / Supporting,138 rows × 7 columns
+tester_quality_features.csv,csv,scoring,Participant-level engineered features used to compute Tester Quality Rating.,Tester Quality,21 rows × 28 columns
+tester_quality_scores.csv,csv,scoring,"Final participant-level Tester Quality output with score, band, sub-scores, reasons, and review flag.",Tester Quality,21 rows × 17 columns
+tester_quality_summary.csv,csv,scoring,Aggregate Tester Quality distribution and summary metrics.,Tester Quality,19 rows × 2 columns
+unmatched_tester_quality_participants.csv,csv,scoring,Diagnostic output listing records that could not be matched during integration or tester-quality processing.,Tester Quality,1 rows × 4 columns

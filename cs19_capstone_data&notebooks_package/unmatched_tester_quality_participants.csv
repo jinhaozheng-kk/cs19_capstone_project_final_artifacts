@@ -1,0 +1,2 @@
+participant,email,missing_area,reason
+troyparnell,troyparnell@hotmail.com,external_evidence_mapping,"Raw survey participant could not be matched to Proposal 2/model rows, LLM insights, or manual-review evidence. Survey and local transcript may still exist, so this is not treated as low quality by itself."

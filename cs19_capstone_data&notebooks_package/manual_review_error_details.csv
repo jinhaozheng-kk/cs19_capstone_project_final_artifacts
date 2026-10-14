@@ -1,0 +1,15 @@
+case_id,participant,task_id,model_c_task,manual_label,manual_ground_truth_score,raw_survey_score,l3_score_before_time,l3_score_after_proposal2_time,error_raw_survey_score,error_model_c_before_time,error_proposal2_after_time
+case_001,ghum,2,AAMI Website,moderate_friction,55.0,100.0,90.1,50.0,45.0,35.099999999999994,5.0
+case_002,ramazankawish,2,AAMI Website,smooth_success,90.0,100.0,100.0,40.0,10.0,10.0,50.0
+case_003,rae,5,PDFs and Understanding Terms,moderate_friction,55.0,60.0,60.0,50.0,5.0,5.0,5.0
+case_004,sharelinsonny,7,Equal Access to Critical  Information – Emergency Response Page,minor_friction,75.0,80.0,72.0,40.0,5.0,3.0,35.0
+case_005,sharelinsonny,10,Finding Answers,minor_friction,75.0,80.0,80.0,25.0,5.0,5.0,50.0
+case_006,gameoverdan,10,Finding Answers,severe_friction_or_failure,25.0,10.0,10.0,10.0,15.0,15.0,15.0
+case_007,fjone7,2,AAMI Website,smooth_success,90.0,100.0,100.0,100.0,10.0,10.0,10.0
+case_008,reneerussell99,2,AAMI Website,smooth_success,90.0,80.0,80.0,80.0,10.0,10.0,10.0
+case_009,carlpatrickrobinson,2,AAMI Website,minor_friction,75.0,80.0,80.0,80.0,5.0,5.0,5.0
+case_010,gracieha22,2,AAMI Website,smooth_success,90.0,100.0,100.0,100.0,10.0,10.0,10.0
+case_011,gameoverdan,2,AAMI Website,severe_friction_or_failure,25.0,20.0,20.0,20.0,5.0,5.0,5.0
+case_013,mgblackwell2001,5,PDFs and Understanding Terms,minor_friction,75.0,40.0,32.0,32.0,35.0,43.0,43.0
+case_014,margieflint,5,PDFs and Understanding Terms,minor_friction,75.0,100.0,50.12,50.12,25.0,24.880000000000003,24.880000000000003
+case_015,reneerussell99,5,PDFs and Understanding Terms,minor_friction,75.0,80.0,80.0,80.0,5.0,5.0,5.0

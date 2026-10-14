@@ -1,0 +1,5 @@
+metric,mean_absolute_error,median_absolute_error,n_cases,closest_count_including_ties,closest_percentage_including_ties,unique_closest_count,unique_closest_percentage,notes
+raw_survey_score,13.57,10.0,14,11,78.6,1.0,7.1,Closest counts are tie-aware; percentages can sum above 100 when several scores tie.
+model_c_before_time,13.28,10.0,14,12,85.7,1.0,7.1,Closest counts are tie-aware; percentages can sum above 100 when several scores tie.
+proposal2_after_time,19.49,10.0,14,10,71.4,1.0,7.1,Closest counts are tie-aware; percentages can sum above 100 when several scores tie.
+tie_cases_multiple_scores_closest,,,14,11,78.6,,,Number of valid cases where two or three candidate scores were equally close to the manual score.

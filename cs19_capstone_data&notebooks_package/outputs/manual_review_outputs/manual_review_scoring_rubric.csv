@@ -1,0 +1,6 @@
+manual_label,manual_ground_truth_score,evidence_criteria,validation_use
+smooth_success,90.0,"Clear task success, information found, no obvious confusion, smooth navigation, confidence in answer.",Included in error metrics.
+minor_friction,75.0,"Small hesitation, slight search effort, minor confusion resolved quickly, task still completed without major issue.",Included in error metrics.
+moderate_friction,55.0,"Repeated searching, unclear navigation, uncertainty, long effort, partial success, or workaround; not necessarily total failure.",Included in error metrics.
+severe_friction_or_failure,25.0,"Could not complete task, gave up, got stuck, could not find key information, clear accessibility barrier, or major workaround.",Included in error metrics.
+insufficient_evidence,,"Transcript incomplete, task boundary unclear, speech mixed with screen-reader/page audio, or no aligned task evidence.",Excluded from error metrics; retained for auditability.

@@ -1,0 +1,737 @@
+File Name,Raw Field,Observed Dtype,Non-null Count,Unique Count,Example Values,Min,Max
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,video_id,str,1545,215,0067b1c1-6778-4263-a705-619cb71989b9 \| 0067b1c1-6778-4263-a705-619cb71989b9 \| 0067b1c1-6778-4263-a705-619cb71989b9,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,tester_name,str,1545,20,Terence Flint \| Terence Flint \| Terence Flint,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,tester_email,str,1545,20,terryaflint17@gmail.com \| terryaflint17@gmail.com \| terryaflint17@gmail.com,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,tester_cohorts,str,1545,10,OL \| OL \| OL,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,assistive_tech,str,1479,12,MAG \| MAG \| MAG,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,task_title,str,1545,11,AAMI Website \| AAMI Website \| AAMI Website,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,category,str,1545,4,positive \| positive \| positive,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,severity,str,572,4,medium \| medium \| low,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,friction_type,str,572,7,comprehension \| content_not_found \| confidence,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,title,str,1545,1499,Clear product categorisation with visual hierarchy \| Weather alerts and messaging features resonate with participant \| Visual imagery and pictures enhance clarity,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,description,str,1545,1544,"Participant responded positively to the organisation of insurance products displayed at a glance, praising the visual pr \| Participant expressed enthusiasm for weather event preparation features and easy messaging functionality, describing the \| Participant noted appreciation for the use of pictures and visual elements on the homepage, suggesting that imagery supp",,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,confidence,float64,1545,30,0.88 \| 0.85 \| 0.8,0.45,0.99
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,approximate_time_range,str,652,176,early in video \| middle section \| middle section,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,semantic_pointer,str,1545,1520,participant expressing approval of product categorisation and visual layout at a glance \| participant praising weather alerts and messaging features \| participant expressing appreciation for visual imagery and pictures on homepage,,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,reasoning,str,1545,1545,"Explicit positive feedback on product organisation and visual presentation. Participant stated 'I like the way that's do \| Participant explicitly praised weather alerts and messaging: 'that's good, yeah' and 'that's pretty cool'. Positive sent \| Participant stated 'I like the pictures' and 'I like the way that stood out' in reference to visual design. Positive sen",,
+AAMIwebsite-IndividualInsights-2026-03-10(1).xlsx,evidence_keywords,str,1545,1507,"Popular products,glance,like the way,love that \| weather alerts,easy messaging,good,pretty cool \| pictures,like,stood out",,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Timestamp,str,21,21,2026/02/06 9:23:51 pm GMT+11 \| 2026/02/06 10:27:28 pm GMT+11 \| 2026/02/07 1:53:22 pm GMT+11,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Please enter your email address,str,21,21,reneerussell99@hotmail.com \| reececraigie@outlook.com \| giuliaclemente26@gmail.com,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,What type of tester are you? (Select all that apply),str,21,12,Neurodivergent;Blind \| Aboriginal \| Non-English speaking,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Select which assistive technologies/ adaoptions you used for this specific project,str,21,10,Screen reader \| Not applicable \| Language translation,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Preferred type of adaption/ assistive technology used for this specific project,str,21,13,VoiceOver \| not applicable \| not applicable,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Overall, how accessible did you find the AAMI website?",int64,21,4,4 \| 4 \| 3,2,5
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Did you find you were blocked from completing some tasks because of poor functionality or because you didn't understand the content?,str,21,4,I could complete all tasks with workarounds \| I could complete all tasks with ease \| I could complete all tasks with workarounds,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Generally speaking, how user friendly, inuitive, helpful was the AAMI website to use?",int64,21,3,5 \| 4 \| 4,3,5
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Based on your experience today, do you think you would have been able to independently answer questions by searching information on this site?",str,21,3,Very confident – I could easily find what I needed to \| Somewhat confident – I could manage but might need support or more time \| Somewhat confident – I could manage but might need support or more time,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Please select your age range,str,21,6,21-30 \| 31-40 \| 41-50,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,What is your gender?,str,21,3,Female \| Male \| Female,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,What device did you use for this particular project? (Select all that apply),str,21,4,Iphone \| Mac laptop/ desktop \| Mac laptop/ desktop,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,What browser did you use for this particular project? (Select all that apply),str,21,6,Safari \| Chrome \| Chrome,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How user-friendly was the AAMI Homepage?,int64,21,4,5 \| 4 \| 4,2,5
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How easy was it to find and read a product disclosure statement?,int64,21,5,4 \| 3 \| 3,1,5
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How easy and clear was the information on Natural disasters?,int64,21,3,4 \| 3 \| 4,3,5
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How user-friendly was the search function?,int64,21,4,1 \| 2 \| 1,1,4
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How user friendly was the live chat?,int64,21,5,4 \| 5 \| 1,1,5
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How easy was it to navigate around the website?,int64,21,4,5 \| 4 \| 3,2,5
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,What words describe how you felt using the website?,str,21,8,Trustworthy \| Clear \| Confusing,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"From the list below, what improvements would make the AAMI website easier, clearer, and more accessible for you? (select all that apply)",str,21,18,Improved search results;Features designed for people with disabilities \| Improved search results \| Simpler more intuitive navigation;Improved search results,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Explain your first impressions of the AAMI website as a whole - both positive and negative?,str,21,21,"I found the homepage easy and accessible to use \| POSTIVES - Clear, scannable product layout on the Home & Property area, and I liked discovering you can split building- \| home page is well structured and easy to follow. I couldn't find the search button and this was really frustrating for m",,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How well did the AAMI website meet your expectations?,str,21,4,Exceeded my expectations — it was smoother and easier than I expected \| Met my expectations \| Partly met my expectations — some areas worked well,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How helpful and informative was the product disclosure PDF?,str,21,21,"I found the document easy to read. The information was clear and there was a glossary to refer to \| The PDS PDF itself was informative, but not user-friendly. - Helpful/informative: I felt the information was there once \| It was very hard, I would need help to understand it well.",,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Describe your feedback trying to answer a question via navigation, search box and chat?",str,21,21,"I could use the navigation and chat functions accessibly, but I could not locate the search box with VoiceOver \| Navigation (menus/tiles) - I could answer a straightforward “where do I get my documents/certificate?” question fast: H \| Navigation was ok but I couldn't find a search box. I think a search box is essential. I didn't like the chat. I find ch",,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Did you understand the terminology and services on the AAMI website?,str,21,4,Yes – the terminology was clear and easy to understand \| Yes – but I still needed to read the descriptions \| No – I still don’t understand many terms used,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,What would make content on the AAMI website easier for you to understand?,str,21,9,A guided tool to recommend an account \| A guided tool to recommend an account \| Simpler language or plain English,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,What information immediately grabbed your attention on the AAMI homepage?,str,21,21,"The homepage had a clear message that AAMI is always there for you \| What grabbed my attention on the AAMI homepage, immediately: - I went straight looking for a search bar — and the fact \| The different products available",,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Did you find anything on the AAMI website particularly informative?,str,21,21,The most informative section was the financial hardship page. It was clear where and how I could receive help \| Yes a few things were genuinely informative: - The “what’s covered” vs “what’s not covered” content on the home/content \| I liked the clear 'what is convered' 'what is not covered' sections for the different products.,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Describe your experience using the general search function on the website. Was it easy to find what you needed, and how could it be improved?",str,21,21,Unfortunately I couldn’t locate the search box using VoiceOver \| My experience with “general search” on AAMI: - I looked for a search bar immediately and couldn’t find one (I even call \| I could not find the search function.,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Before you began your search for insurance, what were the key questions you had or things you wanted to know about?",str,21,21,I wanted to see what was included in each of the providers home and contents insurance \| - What I’m actually covered for (and what’s included by default) in home/contents. - What’s not covered — I was going \| How much an insurance costs and what it covers and what it doesn't.,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How did you begin your initial search for insurance (Select the option that best describes your approach),str,21,5,Used Google search \| Used Google search \| Used Google search,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How do you usually prefer to find information on and manage life admin like insurance?,str,21,5,I prefer doing everything online — I’m confident navigating digital services \| I prefer doing everything online — I’m confident navigating digital services \| I rely on support from family/ friends/ a carer to help me manage services like these,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,How digitally proficient would you say you are (i.e. how proficient are you using the internet),str,21,3,Advanced \| Advanced \| Intermediate,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Have you previously experienced any frustrations accessing or navigating insurance of any kind? If so, please describe what happened",str,21,20,"I find some quote calculators inaccessible with a screen reader \| Yes: - Missed-payment / card-expiry situations: I’ve had cases where a debit card expired, a payment didn’t go through, \| It is always hard to figure out how much a service is. It is not usually clear what you need for a quote before you star",,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"When searching for insurance, what was MOST important to you? (Select the option that best reflects your main priority)",str,21,9,Ensuring the website and information are accessible with my assistive technology \| Knowing what documents or evidence are required \| Checking if specific providers or services are covered in my area,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Now, select all the options below that would be important to you in this scenario (Select all that apply)",str,21,21,Understanding who is eligible for cover;Knowing how to apply and what steps are involved;Understanding waiting periods o \| Understanding who is eligible for cover;Knowing how to apply and what steps are involved;Knowing what documents or evide \| Understanding who is eligible for cover;Knowing how to apply and what steps are involved;Knowing what documents or evide,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,The ease of navigating online services can vary greatly. Please select the option that best describes your experience,str,21,3,I could access and understand all the information I needed to make a decision \| I could access and understand all the information I needed to make a decision \| I could access and understand the information I needed but the website felt uncomfortable or challenging to use,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,What was the best thing about your experience using the AAMI website,str,21,21,"I liked that the information was clear and easy to understand \| - “Get documents” was the standout — it felt like the quickest, clearest path to what I’d need in real life (policy doc \| The home page was very clear.",,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"What was the most difficult or frustrating part of this experience, Try to be specific",str,21,21,"I could not use the search feature with my screen reader \| - No obvious site search: I kept looking for a search bar and couldn’t find one. That immediately forced workarounds (G \| I coudln't find the search button, which made finding information sometimes impossible.",,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Please describe three issues you experienced with the website. These could relate to confusing content, difficulty finding information, accessibility barriers, or anything that interrupted your experience. Please try to be specific and explain what happened verse what you expected",str,21,21,1. I could not locate the search box 2. I found the disclosures difficult to locate 3. It was difficult to locate the FA \| 1) No obvious site-wide search (discovery gap) - What happened: I went looking for a search bar straight away and could \| 1. Could not find a search button. This meant I could not find some information as the bot would ask me to login before,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,If you could redesign or add anything to turn the AAMI Website from ‘okay’ to ‘excellent’ what would you suggest? i.e what would make this website impressive?,str,21,21,"Make the search box visible to VoiceOver \| 1) Add a real, site-wide search (top of every page) - A persistent search bar with autocomplete + “best answer” results \| A clear search button and a robust search engine. Insurance specific jargon explained in plain English.",,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Have you previously explored or accessed insurance?,str,21,2,Yes \| Yes \| Yes,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"When you need to access or complete an online service, how do you usually prefer to do it?",str,21,5,I generally prefer to access the service via their website through a browser on my phone or tablet \| I generally prefer to access the service via their website on a laptop or desktop computer \| I generally prefer to access the service via their website on a laptop or desktop computer,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Generally speaking, when you need to access information from a known or regular source, (i.e. information about a government service/ a train timetable/ news article) how do you usually prefer to do it? This question is about your preference accessing information rather than completing an online form in a logged in state.",str,21,4,I generally prefer to navigate information via the company's app on my phone or tablet \| I generally prefer to navigate information using an AI tool/ LLM like ChatGPT or Gemini rather than visiting the service \| I generally prefer to navigate information via the company's website on a laptop or desktop computer,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Generally speaking, when using online services that require you to log in (for example, banking, utilities, health or government services), which of the following best describes how you usually prefer to manage the account?",str,21,4,I use an account I created myself just for my own use \| I use an account I created myself just for my own use \| I use an account I created myself just for my own use,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Generally speaking, when using online services that require you to log in, which of the following best describes how you usually manage your passwords or sign-in details?",str,21,6,I reuse the same or similar passwords across most of my accounts \| I reuse the same or similar passwords across most of my accounts \| I am not sure or it depends on the service,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Now considering specific services, such as those provided by AAMI select how you'd prefer to manage your services & transactions",str,21,5,I would use an account I created myself just for my own use \| I would use an account I created myself just for my own use \| I would share one account or login with other household/ family members,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"When using online services, would you generally prefer your personal information and service history to be saved so your future forms, services, and interactions can be faster and more personalised?",str,21,5,I prefer my information to be saved so forms and details can pre-fill automatically next time \| I prefer my information to be saved so forms and details can pre-fill automatically next time \| I prefer my information to be saved so forms and details can pre-fill automatically next time,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Select the state where you reside,str,21,3,Queensland \| New South Wales \| New South Wales,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Select the option that best describes your location,str,21,3,Metro location but not a capital city \| Regional \| Capital city region (i.e Sydney region),,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,What's your postcode,int64,21,20,4505 \| 2340 \| 2099,2093,4505
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,Have you considered AAMI insurance before?,str,21,3,Yes \| Yes \| No,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,"Reflecting on the AAMI website, how did your experience compare with other services you use regularly?",str,21,4,It was slightly easier to use than most other websites \| It was slightly easier to use than most other websites \| It was about the same as other websites I use,,
+A_Test_Raw_Survey_Scores_AAMIInsuranceWebsite-Website.xls,What's the best insurance website you've used and describe how it was better than this experience,str,21,21,"AAMI has been the best website I’ve used for insurance \| I use Allianz - I would say it comes down to being a long-term customer with them and the renewal of my insurance policy \| Lemonade in the US, it was a seamless product, you'd have the app installed on your phone ready to use without knowing h",,
+Model_C_output.csv,email_key,str,84,21,asmaosyan9@gmail.com \| asmaosyan9@gmail.com \| asmaosyan9@gmail.com,,
+Model_C_output.csv,task_title,str,84,4,AAMI Website \| Equal Access to Critical Information – Emergency Response Page \| Finding Answers,,
+Model_C_output.csv,L1_score,float64,84,16,75.0 \| 75.0 \| 50.0,0.0,100.0
+Model_C_output.csv,L3_score,float64,84,16,75.0 \| 75.0 \| 50.0,0.0,100.0
+Model_C_output.csv,L2_score,float64,84,16,75.0 \| 75.0 \| 50.0,0.0,100.0
+Model_C_output.csv,survey_score,int64,84,5,75 \| 75 \| 50,0,100
+Model_C_output.csv,met_expectations,str,84,4,Partly met my expectations — some areas worked well \| Partly met my expectations — some areas worked well \| Partly met my expectations — some areas worked well,,
+Model_C_output.csv,final_task_score,float64,84,17,75.0 \| 75.0 \| 50.0,0.0,100.0
+aami-website-assignments(2).csv,TesterFullName,str,45,45,Lauren Metzler \| Carl Robinson \| Ramazan Kawish,,
+aami-website-assignments(2).csv,OptedIn,str,45,2,Yes \| Yes \| Yes,,
+aami-website-assignments(2).csv,TesterCohorts,str,45,16,ND;OT \| ND \| ESL;LV,,
+aami-website-survey-answers(1).csv,id,str,714,714,3cb00316-b929-40e4-a2de-33eed9616de7 \| eaa74a5e-b640-45c8-a077-2cd728b85939 \| d63b9d9f-9e1d-410d-a97d-9dd29dd76115,,
+aami-website-survey-answers(1).csv,response_id,str,714,21,58adba46-a2e2-4ed9-b27f-294f5341ff54 \| 58adba46-a2e2-4ed9-b27f-294f5341ff54 \| 58adba46-a2e2-4ed9-b27f-294f5341ff54,,
+aami-website-survey-answers(1).csv,question_id,str,714,34,457f19f7-1223-4cfd-9035-1bcacaae3deb \| 02303c7e-8cc2-4157-8533-0e329527f309 \| d498007b-61cf-4dac-b28f-e7396d856789,,
+aami-website-survey-answers(1).csv,question_type,str,714,4,checkbox \| checkbox \| checkbox,,
+aami-website-survey-answers(1).csv,answer_data,str,714,320,"{""values"": [""Screen reader""]} \| {""values"": [""VoiceOver""]} \| {""values"": [""Mac laptop/ desktop""]}",,
+aami-website-survey-answers(1).csv,answered_at,str,714,21,2026-02-08 13:15:51+00:00 \| 2026-02-08 13:15:51+00:00 \| 2026-02-08 13:15:51+00:00,,
+aami-website-survey-answers(1).csv,time_spent_seconds,float64,0,0,,,
+aami-website-survey-answers(1).csv,created_at,str,714,21,2026-02-08 13:15:51+00:00 \| 2026-02-08 13:15:51+00:00 \| 2026-02-08 13:15:51+00:00,,
+aami-website-survey-answers(1).csv,updated_at,str,714,29,2026-02-08 13:15:51+00:00 \| 2026-02-08 13:15:51+00:00 \| 2026-02-08 13:15:51+00:00,,
+aami-website-survey-questions.csv,id,str,43,43,457f19f7-1223-4cfd-9035-1bcacaae3deb \| 02303c7e-8cc2-4157-8533-0e329527f309 \| d498007b-61cf-4dac-b28f-e7396d856789,,
+aami-website-survey-questions.csv,survey_id,str,43,1,c9bc1305-f9da-417c-8ca5-2c239f590720 \| c9bc1305-f9da-417c-8ca5-2c239f590720 \| c9bc1305-f9da-417c-8ca5-2c239f590720,,
+aami-website-survey-questions.csv,section_id,str,43,7,390a9566-0989-461b-a1a8-3f387733ae3d \| 390a9566-0989-461b-a1a8-3f387733ae3d \| 390a9566-0989-461b-a1a8-3f387733ae3d,,
+aami-website-survey-questions.csv,task_id,float64,0,0,,,
+aami-website-survey-questions.csv,component_id,str,12,6,fc64ee8e-6c62-46b8-aa71-da0002c41cb6 \| fc64ee8e-6c62-46b8-aa71-da0002c41cb6 \| 79506435-3ecd-4e19-93be-820ec1b5cc9a,,
+aami-website-survey-questions.csv,is_customized,bool,43,1,False \| False \| False,False,False
+aami-website-survey-questions.csv,is_template,bool,43,1,False \| False \| False,False,False
+aami-website-survey-questions.csv,is_locked,bool,43,2,True \| True \| True,False,True
+aami-website-survey-questions.csv,is_mandatory,bool,43,2,True \| True \| True,False,True
+aami-website-survey-questions.csv,is_active,bool,43,1,True \| True \| True,True,True
+aami-website-survey-questions.csv,question_key,str,43,43,assistive_tech_used \| preferred_assistive_tech \| device_used,,
+aami-website-survey-questions.csv,question_name,str,43,43,Which assistive technologies or adaptations did you use for this specific project? \| Which specific assistive technology tools or software did you use? \| What device(s) did you use during this testing session? (Select all that apply),,
+aami-website-survey-questions.csv,category,float64,0,0,,,
+aami-website-survey-questions.csv,question_text,str,43,43,Which assistive technologies or adaptations did you use for this specific project? \| Which specific assistive technology tools or software did you use? \| What device(s) did you use during this testing session? (Select all that apply),,
+aami-website-survey-questions.csv,question_type,str,43,4,checkbox \| checkbox \| checkbox,,
+aami-website-survey-questions.csv,question_order,int64,43,43,1 \| 2 \| 3,1,45
+aami-website-survey-questions.csv,help_text,str,40,30,This helps us understand what technology you rely on. \| Choose the specific tools or software you used during this session. \| Consider your overall experience with websites and applications.,,
+aami-website-survey-questions.csv,metadata,str,43,17,"""{\""options\"":[\""Auslan interpretation\"",\""Colour inversion\"",\""Language translation\"",\""Magnification\"",\""Refreshable b \| ""{\""options\"":[\""Built in magnification\"",\""Dark reader plugin\"",\""ZoomText\"",\""VoiceOver\"",\""JAWS\"",\""NVDA\"",\""Narrator \| ""{\""options\"":[\""iPhone\"",\""iPad\"",\""Android phone\"",\""Other tablet\"",\""Mac laptop/desktop\"",\""Windows desktop/laptop\""]",,
+aami-website-survey-questions.csv,created_at,str,43,1,2026-04-13 10:31:29.305000+00:00 \| 2026-04-13 10:31:29.305000+00:00 \| 2026-04-13 10:31:29.305000+00:00,,
+aami-website-survey-questions.csv,updated_at,str,43,1,2026-04-13 10:31:29.305000+00:00 \| 2026-04-13 10:31:29.305000+00:00 \| 2026-04-13 10:31:29.305000+00:00,,
+aami-website-survey-responses(2).csv,id,str,21,21,58adba46-a2e2-4ed9-b27f-294f5341ff54 \| d0240de7-5fd3-4d8e-b8a3-ddada8644815 \| ae7c18e8-2f3c-4ae3-a6d7-d150a3a35e63,,
+aami-website-survey-responses(2).csv,survey_id,str,21,1,c9bc1305-f9da-417c-8ca5-2c239f590720 \| c9bc1305-f9da-417c-8ca5-2c239f590720 \| c9bc1305-f9da-417c-8ca5-2c239f590720,,
+aami-website-survey-responses(2).csv,project_id,str,21,1,73052603-e4d8-4aed-a9ce-cc5db15e6355 \| 73052603-e4d8-4aed-a9ce-cc5db15e6355 \| 73052603-e4d8-4aed-a9ce-cc5db15e6355,,
+aami-website-survey-responses(2).csv,tester_id,str,21,21,a401dd38-bef4-4621-9e40-32d9ee68e1f5 \| deb6228e-c692-405f-8c53-c38d333fc071 \| 952e265d-20fb-4c08-9201-b968396a95f0,,
+aami-website-survey-responses(2).csv,status,str,21,1,completed \| completed \| completed,,
+aami-website-survey-responses(2).csv,started_at,str,21,21,2026-02-08 13:15:51+00:00 \| 2026-02-06 22:27:28+00:00 \| 2026-02-08 14:51:10+00:00,,
+aami-website-survey-responses(2).csv,completed_at,str,21,21,2026-02-08 13:15:51+00:00 \| 2026-02-06 22:27:28+00:00 \| 2026-02-08 14:51:10+00:00,,
+aami-website-survey-responses(2).csv,time_spent_seconds,float64,0,0,,,
+aami-website-survey-responses(2).csv,device_info,str,21,9,"{""os"": ""macOS"", ""device"": ""Mac"", ""browser"": ""Safari"", ""platform"": ""desktop""} \| {""os"": ""macOS"", ""device"": ""Mac"", ""browser"": ""Chrome"", ""platform"": ""desktop""} \| {""os"": ""Windows"", ""device"": ""Windows PC"", ""browser"": ""Other"", ""platform"": ""desktop""}",,
+aami-website-survey-responses(2).csv,created_at,str,21,21,2026-02-08 13:15:51+00:00 \| 2026-02-06 22:27:28+00:00 \| 2026-02-08 14:51:10+00:00,,
+aami-website-survey-responses(2).csv,updated_at,str,21,1,2026-04-14 13:18:50.968604+00:00 \| 2026-04-14 13:18:50.968604+00:00 \| 2026-04-14 13:18:50.968604+00:00,,
+aami-website-surveys.csv,id,str,1,1,c9bc1305-f9da-417c-8ca5-2c239f590720,,
+aami-website-surveys.csv,project_id,str,1,1,73052603-e4d8-4aed-a9ce-cc5db15e6355,,
+aami-website-surveys.csv,title,str,1,1,AAMI website Accessibility Survey,,
+aami-website-surveys.csv,description,str,1,1,Accessibility testing survey for AAMI website,,
+aami-website-surveys.csv,is_active,bool,1,1,True,True,True
+aami-website-surveys.csv,show_progress,bool,1,1,True,True,True
+aami-website-surveys.csv,allow_partial_save,bool,1,1,False,False,False
+aami-website-surveys.csv,is_template,bool,1,1,False,False,False
+aami-website-surveys.csv,survey_key,str,1,1,aami_accessibility_survey,,
+aami-website-surveys.csv,survey_name,str,1,1,AAMI website Survey,,
+aami-website-surveys.csv,created_at,str,1,1,2026-04-13 10:31:29.305000+00:00,,
+aami-website-surveys.csv,updated_at,str,1,1,2026-04-13 10:31:29.305000+00:00,,
+aami-website-tasks(1).csv,Order,int64,11,11,8 \| 11 \| 6,1,11
+aami-website-tasks(1).csv,Title,str,11,11,Navigating information on financial hardship \| Thanks for listening AAMI \| Starting a Home and Contents Insurance Quote,,
+aami-website-tasks(1).csv,Instructions,str,11,11,"You've recently lost your job so, unfortunately you financial situation has recently changed. Money is tight and you’re \| the AAMI Website Team has made a genuine effort to share updates and improve their online services, but it’s only throug \| Do not commence the quote process for this task - we're interested in your navigation path not the quote form.&#x20;",,
+aami-website-tasks(1).csv,Tips,str,11,11,"Before you start navigating, briefly say out loud the questions you would have if you were in this situation. For exampl \| THis is optional, but a brief - hey, thanks for listening to my feedback is perfect \| As you go, please comment on What caught your attention first on the homepage. Why you chose the path you did to start a",,
+aami-website-tasks(1).csv,Timeguide,str,11,7,15 mins max \| 30 seconds or less \| 10 mins max,,
+aami-website-tasks(1).csv,TaskType,str,10,8,WEB \| BRD \| WEB;HOM;MNU,,
+aami-website-tasks(1).csv,ExcludeFromCollation,bool,11,2,False \| True \| False,False,True
+aami-website-tasks(1).csv,RequiresPII,bool,11,1,False \| False \| False,False,False
+aami-website-tasks(1).csv,TaskURL,str,9,5,https://www.aami.com.au/contact/help-and-support/financial-hardship-policy \| https://www.aami.com.au/ \| https://www.aami.com.au/,,
+l3_score_before_time.csv,email,str,136,17,reneerussell99@hotmail.com \| reececraigie@outlook.com \| giuliaclemente26@gmail.com,,
+l3_score_before_time.csv,model_c_task,str,136,4,AAMI Website \| AAMI Website \| AAMI Website,,
+l3_score_before_time.csv,l3_score_before_time,float64,136,41,80.0 \| 67.0 \| 56.4,0.0,100.0
+l3_score_before_time.csv,usa_score_final,float64,136,41,80.0 \| 67.0 \| 56.4,0.0,100.0
+l3_score_before_time.csv,usa_explanation,str,136,73,No friction rules changed this participant's USA score. Final score: 80 (from survey score 80). \| This participant's USA score of 67 reflects a reduction from their survey score of 80 due to: 1 medium + 1 low usability \| This participant's USA score of 56 reflects a reduction from their survey score of 60 due to: 2 medium comprehension bar,,
+manual_review_cases.csv,case_id,str,18,18,case_001 \| case_002 \| case_003,,
+manual_review_cases.csv,participant,str,18,15,ghum \| ramazankawish \| rae,,
+manual_review_cases.csv,email,str,18,15,ghum@me.com \| ramazankawish@gmail.com \| kris.rae@live.com.au,,
+manual_review_cases.csv,task_id,int64,18,4,2 \| 2 \| 5,2,10
+manual_review_cases.csv,task_title,str,18,4,AAMI Website \| AAMI Website \| PDFs and Understanding Terms,,
+manual_review_cases.csv,model_c_task,str,18,4,AAMI Website \| AAMI Website \| PDFs and Understanding Terms,,
+manual_review_cases.csv,segment_file,str,18,15,ghum_segments.csv \| ramazankawish_segments.csv \| rae_segments.csv,,
+manual_review_cases.csv,task_start_time,str,15,15,00:12:00 \| 00:04:34 \| 00:38:40,,
+manual_review_cases.csv,task_end_time,str,15,15,00:25:00 \| 00:39:18 \| 01:08:40,,
+manual_review_cases.csv,transcript_excerpt,str,14,14,"so I need to I can't navigate through the various kinds of insurances by heading there Navigation seek my health my pet \| The participant repeatedly described the AAMI website as easy to understand and accessible: “The products are here which \| For the product disclosure statement, the participant found the PDF but reacted to its size: “104 pages, oh my goodness…",,
+manual_review_cases.csv,survey_question,str,18,4,"Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website? \| How easy was it to find and read a product disclosure statement?",,
+manual_review_cases.csv,survey_answer,str,18,6,5 / 5 Likert-equivalent \| 5 / 5 Likert-equivalent \| 3 / 5 Likert-equivalent,,
+manual_review_cases.csv,raw_survey_score,float64,18,6,100.0 \| 100.0 \| 60.0,10.0,100.0
+manual_review_cases.csv,l3_score_before_time,float64,18,13,90.1 \| 100.0 \| 60.0,10.0,100.0
+manual_review_cases.csv,proposal2_time_cap,float64,6,3,50.0 \| 40.0 \| 50.0,25.0,50.0
+manual_review_cases.csv,l3_score_after_proposal2_time,float64,18,12,50.0 \| 40.0 \| 50.0,10.0,100.0
+manual_review_cases.csv,normalized_median_ratio,float64,15,15,2.508551881413911 \| 3.562393162393162 \| 2.0047732696897373,0.0732600732600732,6.385586548461166
+manual_review_cases.csv,time_signal,str,15,4,strong_time_friction \| strong_time_friction \| strong_time_friction,,
+manual_review_cases.csv,manual_label,str,18,5,moderate_friction \| smooth_success \| moderate_friction,,
+manual_review_cases.csv,manual_ground_truth_score,float64,14,4,55.0 \| 90.0 \| 55.0,25.0,90.0
+manual_review_cases.csv,manual_confidence,str,18,3,medium \| high \| high,,
+manual_review_cases.csv,manual_evidence_summary,str,18,16,"Task evidence shows real navigation and readability friction, including difficulty navigating headings and interpreting \| Despite a long duration and some exploratory browsing, the participant consistently reported that the homepage and produ \| The participant completed the PDF task but experienced substantial friction from document length, mobile zoom/scroll beh",,
+manual_review_cases.csv,retry_or_confusion_evidence,str,18,15,"Explicit confusion/friction includes “I can’t navigate through the various kinds of insurances by heading” and difficult \| Minor uncertainty appeared around finding contact details and whether the right page was opened, but it was resolved and \| Clear friction includes “104 pages… that’s a bit much,” “I have to zoom in,” and accidental scrolling that was “very fru",,
+manual_review_cases.csv,completion_evidence,str,18,15,"The participant reached AAMI content and explored insurance options, but the experience remained effortful and only part \| The participant found product categories, discounts, contact options, and stated that the website was accessible and use \| The participant opened the PDF, reviewed its structure and terms, and provided specific evaluation comments.",,
+manual_review_cases.csv,reviewer_note,str,18,15,"Selected changed-score / strong-time-friction case. Screen-reader and page text are mixed, so repeated headings were not \| Time signal appears noisy because the participant gave an extended verbal evaluation rather than struggling with the tas \| The task window also contains later task material; the manual label uses only the product-disclosure portion of the tran",,
+manual_review_error_details.csv,case_id,str,14,14,case_001 \| case_002 \| case_003,,
+manual_review_error_details.csv,participant,str,14,11,ghum \| ramazankawish \| rae,,
+manual_review_error_details.csv,task_id,int64,14,4,2 \| 2 \| 5,2,10
+manual_review_error_details.csv,model_c_task,str,14,4,AAMI Website \| AAMI Website \| PDFs and Understanding Terms,,
+manual_review_error_details.csv,manual_label,str,14,4,moderate_friction \| smooth_success \| moderate_friction,,
+manual_review_error_details.csv,manual_ground_truth_score,float64,14,4,55.0 \| 90.0 \| 55.0,25.0,90.0
+manual_review_error_details.csv,raw_survey_score,float64,14,6,100.0 \| 100.0 \| 60.0,10.0,100.0
+manual_review_error_details.csv,l3_score_before_time,float64,14,9,90.1 \| 100.0 \| 60.0,10.0,100.0
+manual_review_error_details.csv,l3_score_after_proposal2_time,float64,14,9,50.0 \| 40.0 \| 50.0,10.0,100.0
+manual_review_error_details.csv,error_raw_survey_score,float64,14,6,45.0 \| 10.0 \| 5.0,5.0,45.0
+manual_review_error_details.csv,error_model_c_before_time,float64,14,7,35.099999999999994 \| 10.0 \| 5.0,3.0,43.0
+manual_review_error_details.csv,error_proposal2_after_time,float64,14,7,5.0 \| 50.0 \| 5.0,5.0,50.0
+manual_review_scoring_rubric.csv,manual_label,str,5,5,smooth_success \| minor_friction \| moderate_friction,,
+manual_review_scoring_rubric.csv,manual_ground_truth_score,float64,4,4,90.0 \| 75.0 \| 55.0,25.0,90.0
+manual_review_scoring_rubric.csv,evidence_criteria,str,5,5,"Clear task success, information found, no obvious confusion, smooth navigation, confidence in answer. \| Small hesitation, slight search effort, minor confusion resolved quickly, task still completed without major issue. \| Repeated searching, unclear navigation, uncertainty, long effort, partial success, or workaround; not necessarily total",,
+manual_review_scoring_rubric.csv,validation_use,str,5,2,Included in error metrics. \| Included in error metrics. \| Included in error metrics.,,
+manual_review_validation_summary.csv,metric,str,4,4,raw_survey_score \| model_c_before_time \| proposal2_after_time,,
+manual_review_validation_summary.csv,mean_absolute_error,float64,3,3,13.57 \| 13.28 \| 19.49,13.28,19.49
+manual_review_validation_summary.csv,median_absolute_error,float64,3,1,10.0 \| 10.0 \| 10.0,10.0,10.0
+manual_review_validation_summary.csv,n_cases,int64,4,1,14 \| 14 \| 14,14,14
+manual_review_validation_summary.csv,closest_count_including_ties,int64,4,3,11 \| 12 \| 10,10,12
+manual_review_validation_summary.csv,closest_percentage_including_ties,float64,4,3,78.6 \| 85.7 \| 71.4,71.4,85.7
+manual_review_validation_summary.csv,unique_closest_count,float64,3,1,1.0 \| 1.0 \| 1.0,1.0,1.0
+manual_review_validation_summary.csv,unique_closest_percentage,float64,3,1,7.1 \| 7.1 \| 7.1,7.1,7.1
+manual_review_validation_summary.csv,notes,str,4,2,Closest counts are tie-aware; percentages can sum above 100 when several scores tie. \| Closest counts are tie-aware; percentages can sum above 100 when several scores tie. \| Closest counts are tie-aware; percentages can sum above 100 when several scores tie.,,
+outputs/l3_score_before_time.csv,email,str,136,17,reneerussell99@hotmail.com \| reececraigie@outlook.com \| giuliaclemente26@gmail.com,,
+outputs/l3_score_before_time.csv,model_c_task,str,136,4,AAMI Website \| AAMI Website \| AAMI Website,,
+outputs/l3_score_before_time.csv,survey_question,str,136,8,"Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website?",,
+outputs/l3_score_before_time.csv,l3_score_before_time,float64,136,41,80.0 \| 67.0 \| 56.4,0.0,100.0
+outputs/l3_score_before_time.csv,usa_score_final,float64,136,41,80.0 \| 67.0 \| 56.4,0.0,100.0
+outputs/l3_score_before_time.csv,usa_explanation,str,136,73,No friction rules changed this participant's USA score. Final score: 80 (from survey score 80). \| This participant's USA score of 67 reflects a reduction from their survey score of 80 due to: 1 medium + 1 low usability \| This participant's USA score of 56 reflects a reduction from their survey score of 60 due to: 2 medium comprehension bar,,
+outputs/manual_review_outputs/manual_review_cases.csv,case_id,str,18,18,case_001 \| case_002 \| case_003,,
+outputs/manual_review_outputs/manual_review_cases.csv,participant,str,18,15,ghum \| ramazankawish \| rae,,
+outputs/manual_review_outputs/manual_review_cases.csv,email,str,18,15,ghum@me.com \| ramazankawish@gmail.com \| kris.rae@live.com.au,,
+outputs/manual_review_outputs/manual_review_cases.csv,task_id,int64,18,4,2 \| 2 \| 5,2,10
+outputs/manual_review_outputs/manual_review_cases.csv,task_title,str,18,4,AAMI Website \| AAMI Website \| PDFs and Understanding Terms,,
+outputs/manual_review_outputs/manual_review_cases.csv,model_c_task,str,18,4,AAMI Website \| AAMI Website \| PDFs and Understanding Terms,,
+outputs/manual_review_outputs/manual_review_cases.csv,segment_file,str,18,15,ghum_segments.csv \| ramazankawish_segments.csv \| rae_segments.csv,,
+outputs/manual_review_outputs/manual_review_cases.csv,task_start_time,str,15,15,00:12:00 \| 00:04:34 \| 00:38:40,,
+outputs/manual_review_outputs/manual_review_cases.csv,task_end_time,str,15,15,00:25:00 \| 00:39:18 \| 01:08:40,,
+outputs/manual_review_outputs/manual_review_cases.csv,transcript_excerpt,str,14,14,"so I need to I can't navigate through the various kinds of insurances by heading there Navigation seek my health my pet \| The participant repeatedly described the AAMI website as easy to understand and accessible: ""The products are here which \| For the product disclosure statement, the participant found the PDF but reacted to its size: ""104 pages, oh my goodness…",,
+outputs/manual_review_outputs/manual_review_cases.csv,survey_question,str,18,4,"Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website? \| How easy was it to find and read a product disclosure statement?",,
+outputs/manual_review_outputs/manual_review_cases.csv,survey_answer,str,18,6,5 / 5 Likert-equivalent \| 5 / 5 Likert-equivalent \| 3 / 5 Likert-equivalent,,
+outputs/manual_review_outputs/manual_review_cases.csv,raw_survey_score,float64,18,6,100.0 \| 100.0 \| 60.0,10.0,100.0
+outputs/manual_review_outputs/manual_review_cases.csv,l3_score_before_time,float64,18,13,90.1 \| 100.0 \| 60.0,10.0,100.0
+outputs/manual_review_outputs/manual_review_cases.csv,proposal2_time_cap,float64,6,3,50.0 \| 40.0 \| 50.0,25.0,50.0
+outputs/manual_review_outputs/manual_review_cases.csv,l3_score_after_proposal2_time,float64,18,12,50.0 \| 40.0 \| 50.0,10.0,100.0
+outputs/manual_review_outputs/manual_review_cases.csv,normalized_median_ratio,float64,15,15,2.508551881413911 \| 3.562393162393162 \| 2.0047732696897373,0.0732600732600732,6.385586548461166
+outputs/manual_review_outputs/manual_review_cases.csv,time_signal,str,15,4,strong_time_friction \| strong_time_friction \| strong_time_friction,,
+outputs/manual_review_outputs/manual_review_cases.csv,manual_label,str,18,5,moderate_friction \| smooth_success \| moderate_friction,,
+outputs/manual_review_outputs/manual_review_cases.csv,manual_ground_truth_score,float64,14,4,55.0 \| 90.0 \| 55.0,25.0,90.0
+outputs/manual_review_outputs/manual_review_cases.csv,manual_confidence,str,18,3,medium \| high \| high,,
+outputs/manual_review_outputs/manual_review_cases.csv,manual_evidence_summary,str,18,16,"Task evidence shows real navigation and readability friction, including difficulty navigating headings and interpreting \| Despite a long duration and some exploratory browsing, the participant consistently reported that the homepage and produ \| The participant completed the PDF task but experienced substantial friction from document length, mobile zoom/scroll beh",,
+outputs/manual_review_outputs/manual_review_cases.csv,retry_or_confusion_evidence,str,18,15,"Explicit confusion/friction includes ""I can't navigate through the various kinds of insurances by heading"" and difficult \| Minor uncertainty appeared around finding contact details and whether the right page was opened, but it was resolved and \| Clear friction includes ""104 pages… that's a bit much,"" ""I have to zoom in,"" and accidental scrolling that was ""very fru",,
+outputs/manual_review_outputs/manual_review_cases.csv,completion_evidence,str,18,15,"The participant reached AAMI content and explored insurance options, but the experience remained effortful and only part \| The participant found product categories, discounts, contact options, and stated that the website was accessible and use \| The participant opened the PDF, reviewed its structure and terms, and provided specific evaluation comments.",,
+outputs/manual_review_outputs/manual_review_cases.csv,reviewer_note,str,18,15,"Selected changed-score / strong-time-friction case. Screen-reader and page text are mixed, so repeated headings were not \| Time signal appears noisy because the participant gave an extended verbal evaluation rather than struggling with the tas \| The task window also contains later task material; the manual label uses only the product-disclosure portion of the tran",,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,case_id,str,18,18,case_001 \| case_002 \| case_003,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,selection_reason,str,18,7,changed_score \| changed_score \| changed_score,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,participant,str,18,15,ghum \| ramazankawish \| rae,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,email,str,18,15,ghum@me.com \| ramazankawish@gmail.com \| kris.rae@live.com.au,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,task_id,int64,18,4,2 \| 2 \| 5,2,10
+outputs/manual_review_outputs/manual_review_cases_draft.csv,task_title,str,18,4,AAMI Website \| AAMI Website \| PDFs and Understanding Terms,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,model_c_task,str,18,4,AAMI Website \| AAMI Website \| PDFs and Understanding Terms,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,segment_file,str,18,15,ghum_segments.csv \| ramazankawish_segments.csv \| rae_segments.csv,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,task_start_time,str,15,15,00:12:00 \| 00:04:34 \| 00:38:40,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,task_end_time,str,15,15,00:25:00 \| 00:39:18 \| 01:08:40,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,transcript_excerpt,str,14,14,so I need to I can't navigate through the various kinds of insurances by heading there Navigation seek my health my pet \| is here we go A M I A A M I is here and then I Click on this one Let's see what is in the website And what I can find he \| Um Where is it Yeah like yes I'd just be interested to know like what are the what's the criteria What's the Um So and w,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,survey_question,str,18,4,"Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website? \| How easy was it to find and read a product disclosure statement?",,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,survey_answer,str,18,6,5 / 5 Likert-equivalent \| 5 / 5 Likert-equivalent \| 3 / 5 Likert-equivalent,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,raw_survey_score,float64,18,6,100.0 \| 100.0 \| 60.0,10.0,100.0
+outputs/manual_review_outputs/manual_review_cases_draft.csv,l3_score_before_time,float64,18,13,90.1 \| 100.0 \| 60.0,10.0,100.0
+outputs/manual_review_outputs/manual_review_cases_draft.csv,proposal2_time_cap,float64,6,3,50.0 \| 40.0 \| 50.0,25.0,50.0
+outputs/manual_review_outputs/manual_review_cases_draft.csv,l3_score_after_proposal2_time,float64,18,12,50.0 \| 40.0 \| 50.0,10.0,100.0
+outputs/manual_review_outputs/manual_review_cases_draft.csv,normalized_median_ratio,float64,15,15,2.508551881413911 \| 3.562393162393162 \| 2.0047732696897373,0.0732600732600732,6.385586548461166
+outputs/manual_review_outputs/manual_review_cases_draft.csv,time_signal,str,15,4,strong_time_friction \| strong_time_friction \| strong_time_friction,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,manual_label,str,18,5,moderate_friction \| severe_friction_or_failure \| moderate_friction,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,manual_ground_truth_score,float64,14,4,55.0 \| 25.0 \| 55.0,25.0,90.0
+outputs/manual_review_outputs/manual_review_cases_draft.csv,manual_confidence,str,18,3,medium \| medium \| medium,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,manual_evidence_summary,str,18,6,"Transcript and/or high normalized duration indicate repeated effort or uncertainty, but evidence does not prove complete \| Transcript contains explicit inability, getting stuck, or task failure evidence. \| Transcript and/or high normalized duration indicate repeated effort or uncertainty, but evidence does not prove complete",,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,retry_or_confusion_evidence,str,18,15,so I need to I can't navigate through the various kinds of insurances by heading there Navigation seek my health my pet \| is here we go A M I A A M I is here and then I Click on this one Let's see what is in the website And what I can find he \| Um Where is it Yeah like yes I'd just be interested to know like what are the what's the criteria What's the Um So and w,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,completion_evidence,str,18,15,so I need to I can't navigate through the various kinds of insurances by heading there Navigation seek my health my pet \| is here we go A M I A A M I is here and then I Click on this one Let's see what is in the website And what I can find he \| Um Where is it Yeah like yes I'd just be interested to know like what are the what's the criteria What's the Um So and w,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,reviewer_note,str,7,2,Task segmentation confidence=medium. \| Task segmentation confidence=medium. \| Task segmentation confidence=medium.,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,_friction_count,int64,18,10,8 \| 6 \| 6,0,15
+outputs/manual_review_outputs/manual_review_cases_draft.csv,_positive_count,int64,18,7,7 \| 12 \| 2,0,12
+outputs/manual_review_outputs/manual_review_cases_draft.csv,_completion_count,int64,18,4,0 \| 6 \| 1,0,6
+outputs/manual_review_outputs/manual_review_cases_draft.csv,_task_seg_confidence,str,15,2,medium \| medium \| high,,
+outputs/manual_review_outputs/manual_review_cases_draft.csv,_segments_used,int64,18,15,41 \| 105 \| 86,0,249
+outputs/manual_review_outputs/manual_review_error_details.csv,case_id,str,14,14,case_001 \| case_002 \| case_003,,
+outputs/manual_review_outputs/manual_review_error_details.csv,participant,str,14,11,ghum \| ramazankawish \| rae,,
+outputs/manual_review_outputs/manual_review_error_details.csv,task_id,int64,14,4,2 \| 2 \| 5,2,10
+outputs/manual_review_outputs/manual_review_error_details.csv,model_c_task,str,14,4,AAMI Website \| AAMI Website \| PDFs and Understanding Terms,,
+outputs/manual_review_outputs/manual_review_error_details.csv,manual_label,str,14,4,moderate_friction \| smooth_success \| moderate_friction,,
+outputs/manual_review_outputs/manual_review_error_details.csv,manual_ground_truth_score,float64,14,4,55.0 \| 90.0 \| 55.0,25.0,90.0
+outputs/manual_review_outputs/manual_review_error_details.csv,raw_survey_score,float64,14,6,100.0 \| 100.0 \| 60.0,10.0,100.0
+outputs/manual_review_outputs/manual_review_error_details.csv,l3_score_before_time,float64,14,9,90.1 \| 100.0 \| 60.0,10.0,100.0
+outputs/manual_review_outputs/manual_review_error_details.csv,l3_score_after_proposal2_time,float64,14,9,50.0 \| 40.0 \| 50.0,10.0,100.0
+outputs/manual_review_outputs/manual_review_error_details.csv,error_raw_survey_score,float64,14,6,45.0 \| 10.0 \| 5.0,5.0,45.0
+outputs/manual_review_outputs/manual_review_error_details.csv,error_model_c_before_time,float64,14,7,35.099999999999994 \| 10.0 \| 5.0,3.0,43.0
+outputs/manual_review_outputs/manual_review_error_details.csv,error_proposal2_after_time,float64,14,7,5.0 \| 50.0 \| 5.0,5.0,50.0
+outputs/manual_review_outputs/manual_review_scoring_rubric.csv,manual_label,str,5,5,smooth_success \| minor_friction \| moderate_friction,,
+outputs/manual_review_outputs/manual_review_scoring_rubric.csv,manual_ground_truth_score,float64,4,4,90.0 \| 75.0 \| 55.0,25.0,90.0
+outputs/manual_review_outputs/manual_review_scoring_rubric.csv,evidence_criteria,str,5,5,"Clear task success, information found, no obvious confusion, smooth navigation, confidence in answer. \| Small hesitation, slight search effort, minor confusion resolved quickly, task still completed without major issue. \| Repeated searching, unclear navigation, uncertainty, long effort, partial success, or workaround; not necessarily total",,
+outputs/manual_review_outputs/manual_review_scoring_rubric.csv,validation_use,str,5,2,Included in error metrics. \| Included in error metrics. \| Included in error metrics.,,
+outputs/manual_review_outputs/manual_review_validation_summary.csv,metric,str,4,4,raw_survey_score \| model_c_before_time \| proposal2_after_time,,
+outputs/manual_review_outputs/manual_review_validation_summary.csv,mean_absolute_error,float64,3,3,13.57 \| 13.28 \| 19.49,13.28,19.49
+outputs/manual_review_outputs/manual_review_validation_summary.csv,median_absolute_error,float64,3,1,10.0 \| 10.0 \| 10.0,10.0,10.0
+outputs/manual_review_outputs/manual_review_validation_summary.csv,n_cases,int64,4,1,14 \| 14 \| 14,14,14
+outputs/manual_review_outputs/manual_review_validation_summary.csv,closest_count_including_ties,int64,4,3,11 \| 12 \| 10,10,12
+outputs/manual_review_outputs/manual_review_validation_summary.csv,closest_percentage_including_ties,float64,4,3,78.6 \| 85.7 \| 71.4,71.4,85.7
+outputs/manual_review_outputs/manual_review_validation_summary.csv,unique_closest_count,float64,3,1,1.0 \| 1.0 \| 1.0,1.0,1.0
+outputs/manual_review_outputs/manual_review_validation_summary.csv,unique_closest_percentage,float64,3,1,7.1 \| 7.1 \| 7.1,7.1,7.1
+outputs/manual_review_outputs/manual_review_validation_summary.csv,notes,str,4,2,Closest counts are tie-aware; percentages can sum above 100 when several scores tie. \| Closest counts are tie-aware; percentages can sum above 100 when several scores tie. \| Closest counts are tie-aware; percentages can sum above 100 when several scores tie.,,
+outputs/model_c3_proposal1_results.xlsx,email,str,136,17,reneerussell99@hotmail.com \| reececraigie@outlook.com \| giuliaclemente26@gmail.com,,
+outputs/model_c3_proposal1_results.xlsx,raw_score,int64,136,5,4 \| 4 \| 3,1,5
+outputs/model_c3_proposal1_results.xlsx,met_raw,str,136,4,Exceeded my expectations — it was smoother and easier than I expected \| Met my expectations \| Partly met my expectations — some areas worked well,,
+outputs/model_c3_proposal1_results.xlsx,task,str,136,4,AAMI Website \| AAMI Website \| AAMI Website,,
+outputs/model_c3_proposal1_results.xlsx,survey_question,str,136,8,"Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website?",,
+outputs/model_c3_proposal1_results.xlsx,ceiling_score,int64,136,5,80 \| 80 \| 60,20,100
+outputs/model_c3_proposal1_results.xlsx,met_expectations,str,136,4,exceeded \| met \| partly_met,,
+outputs/model_c3_proposal1_results.xlsx,primary_cohort,str,136,8,ND \| AB \| ESL,,
+outputs/model_c3_proposal1_results.xlsx,acc_weight,float64,136,4,1.0 \| 0.4 \| 1.0,0.4,1.0
+outputs/model_c3_proposal1_results.xlsx,usa_weight,float64,136,4,0.4 \| 1.0 \| 0.4,0.4,1.0
+outputs/model_c3_proposal1_results.xlsx,project_blocked,bool,136,2,False \| False \| False,False,True
+outputs/model_c3_proposal1_results.xlsx,l1_score,int64,136,7,80 \| 80 \| 60,0,100
+outputs/model_c3_proposal1_results.xlsx,l2_score,float64,136,33,80.0 \| 74.08 \| 51.0,0.0,100.0
+outputs/model_c3_proposal1_results.xlsx,l3_score,float64,136,41,80.0 \| 67.0 \| 56.4,0.0,100.0
+outputs/model_c3_proposal1_results.xlsx,acc_score_final,float64,136,33,80.0 \| 74.08 \| 51.0,0.0,100.0
+outputs/model_c3_proposal1_results.xlsx,usa_score_final,float64,136,41,80.0 \| 67.0 \| 56.4,0.0,100.0
+outputs/model_c3_proposal1_results.xlsx,acc_explanation,str,136,62,No friction rules changed this participant's ACC score. Final score: 80 (from survey score 80). \| This participant's ACC score of 74 reflects a reduction from their survey score of 80 due to: 1 medium comprehension bar \| This participant's ACC score of 51 reflects a reduction from their survey score of 60 due to: 2 medium comprehension bar,,
+outputs/model_c3_proposal1_results.xlsx,usa_explanation,str,136,73,No friction rules changed this participant's USA score. Final score: 80 (from survey score 80). \| This participant's USA score of 67 reflects a reduction from their survey score of 80 due to: 1 medium + 1 low usability \| This participant's USA score of 56 reflects a reduction from their survey score of 60 due to: 2 medium comprehension bar,,
+outputs/proposal1_cohort_summary.csv,primary_cohort,str,8,8,AB \| BL \| DF,,
+outputs/proposal1_cohort_summary.csv,n,int64,8,3,1 \| 2 \| 2,1,4
+outputs/proposal1_cohort_summary.csv,cohort_acc,float64,8,8,65.52 \| 60.46875 \| 67.5,54.9453125,75.95
+outputs/proposal1_cohort_summary.csv,cohort_acc_sd,float64,5,5,23.82065969122182 \| 10.606601717798211 \| 24.434254566570235,4.928657694207081,24.434254566570235
+outputs/proposal1_cohort_summary.csv,cohort_usa,float64,8,8,63.0 \| 59.34375 \| 70.475,51.3140625,70.475
+outputs/proposal1_cohort_summary.csv,cohort_usa_sd,float64,5,5,14.2393628061441 \| 17.00591808753646 \| 19.25970695127416,8.808782726631417,19.25970695127416
+outputs/proposal1_df_insights.csv,video_id,str,571,164,187794e8-76ad-47ea-90de-e40e16abf08c \| 187794e8-76ad-47ea-90de-e40e16abf08c \| 187794e8-76ad-47ea-90de-e40e16abf08c,,
+outputs/proposal1_df_insights.csv,tester_name,str,571,20,Asma Osyan \| Asma Osyan \| Asma Osyan,,
+outputs/proposal1_df_insights.csv,tester_email,str,571,20,asma@civikPeople.com.au \| asma@civikPeople.com.au \| asma@civikPeople.com.au,,
+outputs/proposal1_df_insights.csv,tester_cohorts,str,571,10,ESL \| ESL \| ESL,,
+outputs/proposal1_df_insights.csv,assistive_tech,str,540,12,CI \| CI \| CI,,
+outputs/proposal1_df_insights.csv,task_title,str,571,11,AAMI Website \| AAMI Website \| AAMI Website,,
+outputs/proposal1_df_insights.csv,category,str,571,2,blocker \| friction \| friction,,
+outputs/proposal1_df_insights.csv,severity,str,571,5,blocker \| high \| medium,,
+outputs/proposal1_df_insights.csv,friction_type,str,571,7,content_not_found \| comprehension \| confidence,,
+outputs/proposal1_df_insights.csv,title,str,571,564,Accessibility statement or options not discoverable on homepage \| Complex insurance terminology may challenge non-native English speakers \| Lack of multilingual support or interpreter information creates uncertainty,,
+outputs/proposal1_df_insights.csv,description,str,571,571,"Participant explicitly searched for accessibility options or statement on the AAMI website but could not locate them. Pa \| Participant highlighted that insurance industry language, combined with non-English-speaking background, creates signifi \| Participant expressed concern about how to contact AAMI if they don't speak English fluently, and noted that many provid",,
+outputs/proposal1_df_insights.csv,confidence,float64,571,27,0.96 \| 0.82 \| 0.79,0.58,0.98
+outputs/proposal1_df_insights.csv,approximate_time_range,str,327,115,early in task \| beginning of video \| beginning of session,,
+outputs/proposal1_df_insights.csv,semantic_pointer,str,571,570,participant searching for and failing to locate accessibility options or statement on website \| participant discussing language barriers and comprehension challenges for non-English speakers in insurance context \| participant expressing uncertainty about how to contact AAMI in non-English language and availability of interpreter ser,,
+outputs/proposal1_df_insights.csv,reasoning,str,571,571,"Participant made deliberate search for accessibility features ('I couldn't find the accessibility option here'), express \| Participant repeatedly emphasised language barriers as a key accessibility challenge for refugee and multicultural commu \| Participant raised concern about contacting services in non-English language and noted this drives people to use third-p",,
+outputs/proposal1_df_insights.csv,evidence_keywords,str,571,570,"accessibility option,couldn't find,not sure,challenge,important \| English as a second language,language,accessibility issues,don't speak the language,complicated \| contact the services,don't speak the language,interpreters,accessible options,challenge",,
+outputs/proposal1_df_insights.csv,email_key,str,571,20,asma@civikpeople.com.au \| asma@civikpeople.com.au \| asma@civikpeople.com.au,,
+outputs/proposal1_rows.csv,email,str,136,17,reneerussell99@hotmail.com \| reececraigie@outlook.com \| giuliaclemente26@gmail.com,,
+outputs/proposal1_rows.csv,raw_score,int64,136,5,4 \| 4 \| 3,1,5
+outputs/proposal1_rows.csv,met_raw,str,136,4,Exceeded my expectations — it was smoother and easier than I expected \| Met my expectations \| Partly met my expectations — some areas worked well,,
+outputs/proposal1_rows.csv,task,str,136,4,AAMI Website \| AAMI Website \| AAMI Website,,
+outputs/proposal1_rows.csv,survey_question,str,136,8,"Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website?",,
+outputs/proposal1_rows.csv,ceiling_score,float64,136,5,80.0 \| 80.0 \| 60.0,20.0,100.0
+outputs/proposal1_rows.csv,met_expectations,str,136,4,exceeded \| met \| partly_met,,
+outputs/proposal1_rows.csv,primary_cohort,str,136,8,ND \| AB \| ESL,,
+outputs/proposal1_rows.csv,acc_weight,float64,136,4,1.0 \| 0.4 \| 1.0,0.4,1.0
+outputs/proposal1_rows.csv,usa_weight,float64,136,4,0.4 \| 1.0 \| 0.4,0.4,1.0
+outputs/proposal1_rows.csv,project_blocked,bool,136,2,False \| False \| False,False,True
+outputs/proposal1_rows.csv,l1_score,float64,136,7,80.0 \| 80.0 \| 60.0,0.0,100.0
+outputs/proposal1_rows.csv,l2_score,float64,136,33,80.0 \| 74.08 \| 51.0,0.0,100.0
+outputs/proposal1_rows.csv,l3_score,float64,136,41,80.0 \| 67.0 \| 56.4,0.0,100.0
+outputs/proposal1_rows.csv,acc_score_final,float64,136,33,80.0 \| 74.08 \| 51.0,0.0,100.0
+outputs/proposal1_rows.csv,usa_score_final,float64,136,41,80.0 \| 67.0 \| 56.4,0.0,100.0
+outputs/proposal1_rows.csv,acc_explanation,str,136,62,No friction rules changed this participant's ACC score. Final score: 80 (from survey score 80). \| This participant's ACC score of 74 reflects a reduction from their survey score of 80 due to: 1 medium comprehension bar \| This participant's ACC score of 51 reflects a reduction from their survey score of 60 due to: 2 medium comprehension bar,,
+outputs/proposal1_rows.csv,usa_explanation,str,136,73,No friction rules changed this participant's USA score. Final score: 80 (from survey score 80). \| This participant's USA score of 67 reflects a reduction from their survey score of 80 due to: 1 medium + 1 low usability \| This participant's USA score of 56 reflects a reduction from their survey score of 60 due to: 2 medium comprehension bar,,
+outputs/proposal1_task_summary.csv,task,str,4,4,AAMI Website \| Equal Access to Critical Information – Emergency Response Page \| Finding Answers,,
+outputs/proposal1_task_summary.csv,n_rows,float64,4,3,68.0 \| 17.0 \| 34.0,17.0,68.0
+outputs/proposal1_task_summary.csv,n_blocked,float64,4,2,0.0 \| 0.0 \| 0.0,0.0,2.0
+outputs/proposal1_task_summary.csv,task_acc,float64,4,4,74.38264705882354 \| 81.39999999999999 \| 41.77941176470589,41.77941176470589,81.39999999999999
+outputs/proposal1_task_summary.csv,task_acc_sd,float64,4,4,20.57962299073376 \| 15.999843749237051 \| 28.72523734017796,15.999843749237051,28.72523734017796
+outputs/proposal1_task_summary.csv,task_usa,float64,4,4,74.74888235294118 \| 77.27647058823528 \| 38.23352941176471,38.23352941176471,77.27647058823528
+outputs/proposal1_task_summary.csv,task_usa_sd,float64,4,4,21.25188591563175 \| 15.948649214422703 \| 24.88321168035613,15.948649214422703,24.88321168035613
+outputs/proposal2_integrated_l3_time_score.csv,email,str,136,17,reneerussell99@hotmail.com \| reececraigie@outlook.com \| giuliaclemente26@gmail.com,,
+outputs/proposal2_integrated_l3_time_score.csv,participant,str,95,15,reneerussell99 \| giuliaclemente26 \| mgblackwell2001,,
+outputs/proposal2_integrated_l3_time_score.csv,participant_key,str,95,15,reneerussell99 \| giuliaclemente26 \| mgblackwell2001,,
+outputs/proposal2_integrated_l3_time_score.csv,model_c_task,str,136,4,AAMI Website \| AAMI Website \| AAMI Website,,
+outputs/proposal2_integrated_l3_time_score.csv,model_c_task_key,str,136,4,aami_website \| aami_website \| aami_website,,
+outputs/proposal2_integrated_l3_time_score.csv,task_id,float64,95,4,2.0 \| 2.0 \| 2.0,2.0,10.0
+outputs/proposal2_integrated_l3_time_score.csv,task_title,str,95,4,AAMI Website \| AAMI Website \| AAMI Website,,
+outputs/proposal2_integrated_l3_time_score.csv,survey_question,str,136,8,"Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website? \| Overall, how accessible did you find the AAMI website?",,
+outputs/proposal2_integrated_l3_time_score.csv,ceiling_score,float64,136,5,80.0 \| 80.0 \| 60.0,20.0,100.0
+outputs/proposal2_integrated_l3_time_score.csv,l1_score,float64,136,7,80.0 \| 80.0 \| 60.0,0.0,100.0
+outputs/proposal2_integrated_l3_time_score.csv,l2_score,float64,136,33,80.0 \| 74.08 \| 51.0,0.0,100.0
+outputs/proposal2_integrated_l3_time_score.csv,l3_score_before_time,float64,136,41,80.0 \| 67.0 \| 56.4,0.0,100.0
+outputs/proposal2_integrated_l3_time_score.csv,duration_minutes,float64,95,45,8.216666666666667 \| 1.9833333333333327 \| 4.55,0.3333333333333333,84.18333333333334
+outputs/proposal2_integrated_l3_time_score.csv,recommended_minutes,float64,95,2,10.0 \| 10.0 \| 10.0,10.0,15.0
+outputs/proposal2_integrated_l3_time_score.csv,speed_factor_raw,float64,95,15,0.4375757575757575 \| 0.8711904761904762 \| 0.5645098039215687,0.1555,3.3517598343685298
+outputs/proposal2_integrated_l3_time_score.csv,speed_factor,float64,95,7,0.7 \| 0.8711904761904762 \| 0.7,0.7,1.5
+outputs/proposal2_integrated_l3_time_score.csv,normalized_duration,float64,95,45,11.73809523809524 \| 2.276578300081989 \| 6.5,0.4761904761904762,56.12222222222223
+outputs/proposal2_integrated_l3_time_score.csv,normalized_task_median,float64,95,4,6.5 \| 6.5 \| 6.5,6.5,9.976190476190476
+outputs/proposal2_integrated_l3_time_score.csv,normalized_median_ratio,float64,95,43,1.805860805860806 \| 0.3502428153972291 \| 1.0,0.0732600732600732,6.385586548461166
+outputs/proposal2_integrated_l3_time_score.csv,proposal2_time_cap,float64,14,3,50.0 \| 40.0 \| 50.0,25.0,50.0
+outputs/proposal2_integrated_l3_time_score.csv,l3_score_after_proposal2_time,float64,136,40,80.0 \| 67.0 \| 56.4,0.0,100.0
+outputs/proposal2_integrated_l3_time_score.csv,proposal2_changed_score,bool,136,2,False \| False \| False,False,True
+outputs/proposal2_integrated_l3_time_score.csv,time_signal,str,95,4,medium_time_friction \| normal \| normal,,
+outputs/proposal2_integrated_l3_time_score.csv,confidence,str,95,3,high \| medium \| medium,,
+outputs/proposal2_integrated_l3_time_score.csv,proposal2_time_explanation,str,136,9,No Proposal 2 time cap applied. Normalized task duration did not exceed the time threshold. \| No Proposal 2 time cap applied because no matching Proposal 2 time evidence was available for this Model C row. \| No Proposal 2 time cap applied. Normalized task duration did not exceed the time threshold.,,
+outputs/proposal2_integrated_l3_time_score.csv,acc_score_final,float64,136,33,80.0 \| 74.08 \| 51.0,0.0,100.0
+outputs/proposal2_integrated_l3_time_score.csv,usa_score_final,float64,136,41,80.0 \| 67.0 \| 56.4,0.0,100.0
+outputs/proposal2_integrated_l3_time_score.csv,acc_explanation,str,136,62,No friction rules changed this participant's ACC score. Final score: 80 (from survey score 80). \| This participant's ACC score of 74 reflects a reduction from their survey score of 80 due to: 1 medium comprehension bar \| This participant's ACC score of 51 reflects a reduction from their survey score of 60 due to: 2 medium comprehension bar,,
+outputs/proposal2_integrated_l3_time_score.csv,usa_explanation,str,136,73,No friction rules changed this participant's USA score. Final score: 80 (from survey score 80). \| This participant's USA score of 67 reflects a reduction from their survey score of 80 due to: 1 medium + 1 low usability \| This participant's USA score of 56 reflects a reduction from their survey score of 60 due to: 2 medium comprehension bar,,
+outputs/proposal2_integrated_l3_time_score.csv,met_expectations,str,136,4,exceeded \| met \| partly_met,,
+outputs/proposal2_integrated_l3_time_score.csv,primary_cohort,str,136,8,ND \| AB \| ESL,,
+outputs/proposal2_integration_summary.csv,total_model_c_rows,int64,1,1,136,136,136
+outputs/proposal2_integration_summary.csv,total_time_rows,int64,1,1,138,138,138
+outputs/proposal2_integration_summary.csv,matched_rows,int64,1,1,95,95,95
+outputs/proposal2_integration_summary.csv,unmatched_model_c_rows,int64,1,1,41,41,41
+outputs/proposal2_integration_summary.csv,unmatched_time_rows,int64,1,1,93,93,93
+outputs/proposal2_integration_summary.csv,rows_with_time_cap,int64,1,1,14,14,14
+outputs/proposal2_integration_summary.csv,rows_with_score_changed,int64,1,1,12,12,12
+outputs/proposal2_integration_summary.csv,average_l3_before_time,float64,1,1,62.85944117647059,62.85944117647059,62.85944117647059
+outputs/proposal2_integration_summary.csv,average_l3_after_proposal2_time,float64,1,1,59.09179411764706,59.09179411764706,59.09179411764706
+outputs/proposal2_integration_summary.csv,pre_recompute_speed_factor_min,float64,1,1,0.1555,0.1555,0.1555
+outputs/proposal2_integration_summary.csv,pre_recompute_speed_factor_max,float64,1,1,5.038333333333333,5.038333333333333,5.038333333333333
+outputs/proposal2_integration_summary.csv,post_clip_speed_factor_min,float64,1,1,0.7,0.7,0.7
+outputs/proposal2_integration_summary.csv,post_clip_speed_factor_max,float64,1,1,1.5,1.5,1.5
+outputs/proposal2_integration_summary.csv,duplicate_time_rows_before_resolution,int64,1,1,0,0,0
+outputs/proposal2_integration_summary.csv,score_increase_violations,int64,1,1,0,0,0
+outputs/proposal2_integration_summary.csv,proposal2_only_changes_l3_usability,bool,1,1,True,True,True
+outputs/proposal2_integration_summary.csv,accessibility_scores_unchanged,bool,1,1,True,True,True
+outputs/proposal2_rollup_participant.csv,email,str,26,17,carlpatrickrobinson@gmail.com \| carlpatrickrobinson@gmail.com \| fjone7@gmail.com,,
+outputs/proposal2_rollup_participant.csv,participant,str,15,15,carlpatrickrobinson \| fjone7 \| gameoverdan,,
+outputs/proposal2_rollup_participant.csv,n_rows,int64,26,8,6 \| 2 \| 8,1,8
+outputs/proposal2_rollup_participant.csv,n_changed,int64,26,4,0 \| 0 \| 0,0,4
+outputs/proposal2_rollup_participant.csv,mean_l3_before_time,float64,26,26,80.0 \| 40.0 \| 72.55,24.375,82.5
+outputs/proposal2_rollup_participant.csv,mean_l3_after_proposal2_time,float64,26,25,80.0 \| 40.0 \| 72.55,24.375,82.5
+outputs/proposal2_rollup_participant.csv,mean_delta,float64,26,5,0.0 \| 0.0 \| 0.0,-47.333333333333336,0.0
+outputs/proposal2_rollup_participant.csv,mean_acc_score_final,float64,26,25,80.0 \| 40.0 \| 76.625,25.0,91.1
+outputs/proposal2_rollup_participant.csv,mean_usa_score_final,float64,26,26,80.0 \| 40.0 \| 72.55,24.375,82.5
+outputs/proposal2_rollup_project.csv,total_rows,int64,1,1,136,136,136
+outputs/proposal2_rollup_project.csv,total_changed_rows,int64,1,1,12,12,12
+outputs/proposal2_rollup_project.csv,project_l3_before_time,float64,1,1,62.85944117647059,62.85944117647059,62.85944117647059
+outputs/proposal2_rollup_project.csv,project_l3_after_proposal2_time,float64,1,1,59.09179411764706,59.09179411764706,59.09179411764706
+outputs/proposal2_rollup_project.csv,project_delta,float64,1,1,-3.767647058823529,-3.767647058823529,-3.767647058823529
+outputs/proposal2_rollup_project.csv,project_acc_score_final,float64,1,1,64.4935294117647,64.4935294117647,64.4935294117647
+outputs/proposal2_rollup_project.csv,project_usa_score_final,float64,1,1,62.85944117647059,62.85944117647059,62.85944117647059
+outputs/proposal2_rollup_task.csv,model_c_task,str,4,4,AAMI Website \| Equal Access to Critical Information – Emergency Response Page \| Finding Answers,,
+outputs/proposal2_rollup_task.csv,n_rows,int64,4,3,68 \| 17 \| 34,17,68
+outputs/proposal2_rollup_task.csv,n_changed,int64,4,3,8 \| 1 \| 2,1,8
+outputs/proposal2_rollup_task.csv,mean_l3_before_time,float64,4,4,74.74888235294118 \| 77.2764705882353 \| 38.23352941176471,38.23352941176471,77.2764705882353
+outputs/proposal2_rollup_task.csv,mean_l3_after_proposal2_time,float64,4,4,69.44888235294118 \| 75.39411764705882 \| 34.99823529411765,34.99823529411765,75.39411764705882
+outputs/proposal2_rollup_task.csv,mean_delta,float64,4,4,-5.3 \| -1.8823529411764703 \| -3.235294117647059,-5.3,-0.5882352941176471
+outputs/proposal2_rollup_task.csv,mean_acc_score_final,float64,4,4,74.38264705882354 \| 81.39999999999999 \| 41.77941176470589,41.77941176470589,81.39999999999999
+outputs/proposal2_rollup_task.csv,mean_usa_score_final,float64,4,4,74.74888235294118 \| 77.2764705882353 \| 38.23352941176471,38.23352941176471,77.2764705882353
+outputs/proposal2_time_audit_log.csv,email,str,14,5,ghum@me.com \| ramazankawish@gmail.com \| ghum@me.com,,
+outputs/proposal2_time_audit_log.csv,participant,str,14,5,ghum \| ramazankawish \| ghum,,
+outputs/proposal2_time_audit_log.csv,model_c_task,str,14,4,AAMI Website \| AAMI Website \| AAMI Website,,
+outputs/proposal2_time_audit_log.csv,model_c_task_key,str,14,4,aami_website \| aami_website \| aami_website,,
+outputs/proposal2_time_audit_log.csv,task_id,int64,14,4,2 \| 2 \| 2,2,10
+outputs/proposal2_time_audit_log.csv,task_title,str,14,4,AAMI Website \| AAMI Website \| AAMI Website,,
+outputs/proposal2_time_audit_log.csv,l3_score_before_time,float64,14,6,90.1 \| 100.0 \| 90.1,10.0,100.0
+outputs/proposal2_time_audit_log.csv,proposal2_time_cap,float64,14,3,50.0 \| 40.0 \| 50.0,25.0,50.0
+outputs/proposal2_time_audit_log.csv,l3_score_after_proposal2_time,float64,14,4,50.0 \| 40.0 \| 50.0,10.0,50.0
+outputs/proposal2_time_audit_log.csv,proposal2_changed_score,bool,14,2,True \| True \| True,False,True
+outputs/proposal2_time_audit_log.csv,normalized_duration,float64,14,6,16.305587229190422 \| 23.155555555555555 \| 16.305587229190422,16.305587229190422,56.12222222222223
+outputs/proposal2_time_audit_log.csv,normalized_task_median,float64,14,4,6.5 \| 6.5 \| 6.5,6.5,9.976190476190476
+outputs/proposal2_time_audit_log.csv,normalized_median_ratio,float64,14,6,2.508551881413911 \| 3.562393162393162 \| 2.508551881413911,2.0047732696897373,6.385586548461166
+outputs/proposal2_time_audit_log.csv,time_signal,str,14,1,strong_time_friction \| strong_time_friction \| strong_time_friction,,
+outputs/proposal2_time_audit_log.csv,confidence,str,14,2,medium \| medium \| medium,,
+outputs/proposal2_time_audit_log.csv,proposal2_time_explanation,str,14,7,"Proposal 2 time cap applied. Normalized duration was 2.51x the normalized task median, so the L3 usability score cannot \| Proposal 2 time cap applied. Normalized duration was 3.56x the normalized task median, so the L3 usability score cannot \| Proposal 2 time cap applied. Normalized duration was 2.51x the normalized task median, so the L3 usability score cannot",,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,participant,str,138,19,asma \| asma \| asma,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,task_id,int64,138,11,1 \| 2 \| 4,1,11
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,task_title,str,138,11,Discovering insurance providers \| AAMI Website \| Navigation of sub-landing page – Product Information,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,approximate_start_time,str,138,106,00:00:03 \| 00:12:21 \| 00:26:40,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,approximate_end_time,str,138,132,00:12:21 \| 00:26:40 \| 00:41:45,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,confidence,str,138,3,high \| high \| medium,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,evidence_phrase,str,138,137,I am going to check for the website...Amy is one of the 2nd provider that comes in my list \| we have come with the second task about evaluating the AI website...how user-friendly it is \| task number 4 we're just deep diving into the different content in terms of product,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,start_dt,str,138,106,2026-05-07 00:00:03 \| 2026-05-07 00:12:21 \| 2026-05-07 00:26:40,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,end_dt,str,138,132,2026-05-07 00:12:21 \| 2026-05-07 00:26:40 \| 2026-05-07 00:41:45,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,start_seconds,int64,138,106,3 \| 741 \| 1600,3,6823
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,end_seconds,int64,138,132,741 \| 1600 \| 2505,60,7577
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,duration_seconds,int64,138,127,738 \| 859 \| 905,5,5051
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,duration_minutes,float64,138,127,12.3 \| 14.316666666666666 \| 15.083333333333334,0.0833333333333333,84.18333333333334
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,recommended_minutes,float64,138,3,10.0 \| 10.0 \| 10.0,0.5,15.0
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,participant_total_actual,float64,138,19,73.6 \| 73.6 \| 73.6,15.55,276.05
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,participant_total_recommended,float64,138,13,70.0 \| 70.0 \| 70.0,10.0,120.0
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,speed_factor,float64,138,8,1.0514285714285714 \| 1.0514285714285714 \| 1.0514285714285714,0.7,1.5
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,normalized_duration,float64,138,133,11.698369565217392 \| 13.616394927536232 \| 14.3455615942029,0.0638240086909288,56.12222222222223
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,task_avg_normalized,float64,138,11,7.366532505126604 \| 9.020829667420715 \| 11.434050881512851,2.6790211303131173,21.182075928889567
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,time_ratio,float64,138,138,1.5880428895244982 \| 1.509439312074884 \| 1.2546351020177395,0.0052383980352086,3.707033133573717
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,time_signal,str,138,4,strong_time_friction \| strong_time_friction \| medium_time_friction,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,speed_factor_raw,float64,138,19,1.0514285714285714 \| 1.0514285714285714 \| 1.0514285714285714,0.1555,5.038333333333333
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,normalized_task_median,float64,138,11,4.690476190476191 \| 6.5 \| 9.071428571428571,1.4523809523809523,17.36208175535861
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,normalized_median_ratio,float64,138,131,2.494068638269698 \| 2.094829988851728 \| 1.5814004906995325,0.0063909470356738,9.48633879781421
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,proposal2_time_cap,float64,35,3,50.0 \| 50.0 \| 50.0,25.0,50.0
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,participant_key,str,138,19,asma \| asma \| asma,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,email,str,138,19,asma@civikpeople.com.au \| asma@civikpeople.com.au \| asma@civikpeople.com.au,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,tester_name,str,138,19,Asma Osyan \| Asma Osyan \| Asma Osyan,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,mapping_method,str,138,3,email_local_exact \| email_local_exact \| email_local_exact,,
+outputs/proposal2_time_signal_result_recomputed_for_integration.csv,model_c_task_key,str,53,4,aami_website \| pdfs_and_understanding_terms \| equal_access_to_critical_information,,
+outputs/proposal2_unmatched_participants.csv,participant,object,0,0,,,
+outputs/proposal2_unmatched_participants.csv,participant_key,object,0,0,,,
+outputs/proposal2_unmatched_participants.csv,task_id,object,0,0,,,
+outputs/proposal2_unmatched_participants.csv,task_title,object,0,0,,,
+outputs/proposal2_unmatched_tasks.csv,source,str,7,1,proposal2_time \| proposal2_time \| proposal2_time,,
+outputs/proposal2_unmatched_tasks.csv,task,float64,0,0,,,
+outputs/proposal2_unmatched_tasks.csv,model_c_task_key,float64,0,0,,,
+outputs/proposal2_unmatched_tasks.csv,task_id,float64,7,7,1.0 \| 4.0 \| 6.0,1.0,11.0
+outputs/proposal2_unmatched_tasks.csv,task_title,str,7,7,Discovering insurance providers \| Navigation of sub-landing page – Product Information \| Starting a Home and Contents Insurance Quote,,
+outputs/tester_quality_outputs/tester_quality_features.csv,participant,str,21,21,asma \| carlpatrickrobinson \| fjone7,,
+outputs/tester_quality_outputs/tester_quality_features.csv,email,str,21,21,asmaosyan9@gmail.com \| carlpatrickrobinson@gmail.com \| fjone7@gmail.com,,
+outputs/tester_quality_outputs/tester_quality_features.csv,total_open_text_word_count,int64,21,21,334 \| 260 \| 1365,171,2404
+outputs/tester_quality_outputs/tester_quality_features.csv,average_open_answer_word_count,float64,21,21,13.92 \| 10.83 \| 56.88,7.12,100.17
+outputs/tester_quality_outputs/tester_quality_features.csv,number_of_open_answers,int64,21,1,24 \| 24 \| 24,24,24
+outputs/tester_quality_outputs/tester_quality_features.csv,number_of_non_empty_open_answers,int64,21,1,24 \| 24 \| 24,24,24
+outputs/tester_quality_outputs/tester_quality_features.csv,open_answer_completion_ratio,float64,21,1,1.0 \| 1.0 \| 1.0,1.0,1.0
+outputs/tester_quality_outputs/tester_quality_features.csv,vague_answer_count,int64,21,4,1 \| 2 \| 1,1,6
+outputs/tester_quality_outputs/tester_quality_features.csv,specific_issue_terms_count,int64,21,15,27 \| 27 \| 92,16,188
+outputs/tester_quality_outputs/tester_quality_features.csv,actionable_feedback_count,int64,21,13,14 \| 9 \| 15,5,18
+outputs/tester_quality_outputs/tester_quality_features.csv,number_of_tasks_attempted,int64,21,5,7 \| 8 \| 10,6,10
+outputs/tester_quality_outputs/tester_quality_features.csv,number_of_tasks_with_survey_response,int64,21,1,6 \| 6 \| 6,6,6
+outputs/tester_quality_outputs/tester_quality_features.csv,number_of_tasks_with_transcript_evidence,float64,19,8,6.0 \| 8.0 \| 10.0,1.0,10.0
+outputs/tester_quality_outputs/tester_quality_features.csv,task_coverage_ratio,float64,21,5,0.7 \| 0.8 \| 1.0,0.6,1.0
+outputs/tester_quality_outputs/tester_quality_features.csv,average_raw_survey_score,float64,21,4,80.0 \| 80.0 \| 100.0,40.0,100.0
+outputs/tester_quality_outputs/tester_quality_features.csv,average_l3_after_proposal2_time,float64,17,17,70.0 \| 72.55 \| 24.38,24.38,82.5
+outputs/tester_quality_outputs/tester_quality_features.csv,average_score_gap,float64,17,17,10.0 \| 27.45 \| 75.62,-5.45,75.62
+outputs/tester_quality_outputs/tester_quality_features.csv,high_score_with_high_friction_count,int64,21,12,12 \| 2 \| 8,0,20
+outputs/tester_quality_outputs/tester_quality_features.csv,total_session_duration_minutes,float64,21,21,73.65 \| 16.82 \| 126.28,16.33,126.28
+outputs/tester_quality_outputs/tester_quality_features.csv,extremely_short_session_flag,bool,21,1,False \| False \| False,False,False
+outputs/tester_quality_outputs/tester_quality_features.csv,extremely_short_plus_no_feedback_flag,bool,21,1,False \| False \| False,False,False
+outputs/tester_quality_outputs/tester_quality_features.csv,survey_mentions_friction_count,int64,21,10,6 \| 10 \| 8,1,14
+outputs/tester_quality_outputs/tester_quality_features.csv,llm_friction_insight_count,int64,21,15,31 \| 11 \| 23,0,45
+outputs/tester_quality_outputs/tester_quality_features.csv,llm_high_severe_blocker_insight_count,int64,21,14,12 \| 2 \| 8,0,20
+outputs/tester_quality_outputs/tester_quality_features.csv,llm_blocker_insight_count,int64,21,5,1 \| 0 \| 1,0,4
+outputs/tester_quality_outputs/tester_quality_features.csv,proposal2_changed_rows,int64,21,4,0 \| 0 \| 0,0,4
+outputs/tester_quality_outputs/tester_quality_features.csv,segment_file,str,21,21,asma_segments.csv \| carlpatrickrobinson_segments.csv \| fjone7_segments.csv,,
+outputs/tester_quality_outputs/tester_quality_features.csv,transcript_word_count,int64,21,21,6145 \| 932 \| 17511,17,24374
+outputs/tester_quality_outputs/tester_quality_scores.csv,participant,str,21,21,giuliaclemente26 \| gracieha22 \| mgblackwell2001,,
+outputs/tester_quality_outputs/tester_quality_scores.csv,email,str,21,21,giuliaclemente26@gmail.com \| gracieha22@gmail.com \| mgblackwell2001@gmail.com,,
+outputs/tester_quality_outputs/tester_quality_scores.csv,primary_cohort,str,21,12,"Non-English speaking \| Low Vision,Deaf \| Neurodivergent,Physically Disabled",,
+outputs/tester_quality_outputs/tester_quality_scores.csv,tester_quality_score,float64,21,21,98.38 \| 98.25 \| 95.75,70.62,98.38
+outputs/tester_quality_outputs/tester_quality_scores.csv,tester_quality_band,str,21,2,high_quality \| high_quality \| high_quality,,
+outputs/tester_quality_outputs/tester_quality_scores.csv,feedback_depth_score,float64,21,12,100.0 \| 100.0 \| 100.0,64.75,100.0
+outputs/tester_quality_outputs/tester_quality_scores.csv,task_coverage_score,float64,21,5,93.5 \| 100.0 \| 87.0,72.0,100.0
+outputs/tester_quality_outputs/tester_quality_scores.csv,evidence_consistency_score,float64,20,14,100.0 \| 93.0 \| 96.0,39.0,100.0
+outputs/tester_quality_outputs/tester_quality_scores.csv,engagement_effort_score,float64,21,7,100.0 \| 100.0 \| 100.0,82.0,100.0
+outputs/tester_quality_outputs/tester_quality_scores.csv,available_dimensions,str,21,2,feedback_depth_score;task_coverage_score;evidence_consistency_score;engagement_effort_score \| feedback_depth_score;task_coverage_score;evidence_consistency_score;engagement_effort_score \| feedback_depth_score;task_coverage_score;evidence_consistency_score;engagement_effort_score,,
+outputs/tester_quality_outputs/tester_quality_scores.csv,missing_dimensions,str,1,1,evidence_consistency_score,,
+outputs/tester_quality_outputs/tester_quality_scores.csv,feedback_depth_reason,str,21,21,"Open-ended feedback is usable and reasonably specific (443 words, 54 concrete terms), though not uniformly detailed acro \| Open-ended feedback is usable and reasonably specific (359 words, 28 concrete terms), though not uniformly detailed acro \| Open-ended feedback is usable and reasonably specific (440 words, 33 concrete terms), though not uniformly detailed acro",,
+outputs/tester_quality_outputs/tester_quality_scores.csv,task_coverage_reason,str,21,17,Coverage estimate uses 9 attempted/evidenced tasks against 10 expected non-excluded tasks; survey task score responses=6 \| Coverage estimate uses 10 attempted/evidenced tasks against 10 expected non-excluded tasks; survey task score responses= \| Coverage estimate uses 8 attempted/evidenced tasks against 10 expected non-excluded tasks; survey task score responses=6,,
+outputs/tester_quality_outputs/tester_quality_scores.csv,evidence_consistency_reason,str,21,21,Average raw survey score=60.0 and average Proposal 2 L3 score=55.1; score gap=4.9. LLM insight high/severe/blocker count \| Average raw survey score=100.0 and average Proposal 2 L3 score=82.5; score gap=17.5. LLM insight high/severe/blocker cou \| Average raw survey score=40.0 and average Proposal 2 L3 score=45.4; score gap=-5.4. LLM insight high/severe/blocker coun,,
+outputs/tester_quality_outputs/tester_quality_scores.csv,engagement_effort_reason,str,21,21,"Engagement uses survey completion ratio=1.00, open-answer completion=1.00, attempted/evidenced tasks=9, and session dura \| Engagement uses survey completion ratio=1.00, open-answer completion=1.00, attempted/evidenced tasks=10, and session dur \| Engagement uses survey completion ratio=1.00, open-answer completion=1.00, attempted/evidenced tasks=8, and session dura",,
+outputs/tester_quality_outputs/tester_quality_scores.csv,overall_quality_reason,str,21,21,"Overall score combines available dimensions (feedback_depth_score, task_coverage_score, evidence_consistency_score, enga \| Overall score combines available dimensions (feedback_depth_score, task_coverage_score, evidence_consistency_score, enga \| Overall score combines available dimensions (feedback_depth_score, task_coverage_score, evidence_consistency_score, enga",,
+outputs/tester_quality_outputs/tester_quality_scores.csv,review_flag,str,21,3,no_review_needed \| no_review_needed \| no_review_needed,,
+outputs/tester_quality_outputs/tester_quality_summary.csv,metric,str,16,16,number_of_testers \| average_tester_quality_score \| number_high_quality,,
+outputs/tester_quality_outputs/tester_quality_summary.csv,value,float64,16,13,21.0 \| 90.12 \| 18.0,0.0,97.71
+outputs/tester_quality_outputs/unmatched_tester_quality_participants.csv,participant,str,1,1,troyparnell,,
+outputs/tester_quality_outputs/unmatched_tester_quality_participants.csv,email,str,1,1,troyparnell@hotmail.com,,
+outputs/tester_quality_outputs/unmatched_tester_quality_participants.csv,missing_area,str,1,1,external_evidence_mapping,,
+outputs/tester_quality_outputs/unmatched_tester_quality_participants.csv,reason,str,1,1,"Raw survey participant could not be matched to Proposal 2/model rows, LLM insights, or manual-review evidence.",,
+proposal2_segments/Sharelinsonny_segments.csv,segment_id,int64,270,270,0 \| 1 \| 2,0,275
+proposal2_segments/Sharelinsonny_segments.csv,start_time,float64,270,270,3.009 \| 20.93 \| 40.328,3.009,5501.169
+proposal2_segments/Sharelinsonny_segments.csv,end_time,float64,270,270,20.329 \| 40.328 \| 58.569,20.329,5511.069
+proposal2_segments/Sharelinsonny_segments.csv,text,str,270,265,Firsthand insights for those who rely on accessible technology curated for designers and developers Hello my name is She \| planning on to buy my first home and now I need to look into a home and contents insurance I don't have an existing prop \| just trying to understand Um my option and what to even be looking looking for I'm like that's so um So what I want to k,,
+proposal2_segments/Sharelinsonny_segments.csv,participant,str,270,1,Sharelinsonny \| Sharelinsonny \| Sharelinsonny,,
+proposal2_segments/asma_segments.csv,segment_id,int64,201,201,0 \| 1 \| 2,0,282
+proposal2_segments/asma_segments.csv,start_time,float64,201,201,3.009 \| 20.53 \| 40.189,3.009,5640.04
+proposal2_segments/asma_segments.csv,end_time,float64,201,201,20.53 \| 40.189 \| 60.18,20.53,5656.549
+proposal2_segments/asma_segments.csv,text,str,201,188,Firsthand insights for those who rely on accessible technology curated for designers and developers Hello everyone So I' \| project for the AI Insurance I believe because Amy's because I've seen like Amy in many ads Into it and like over the my \| a bit of my experience and my background before like I saw this project of Mama and I came as a refugee from Afghanistan,,
+proposal2_segments/asma_segments.csv,participant,str,201,1,asma \| asma \| asma,,
+proposal2_segments/carlpatrickrobinson_segments.csv,segment_id,int64,49,49,0 \| 1 \| 2,0,51
+proposal2_segments/carlpatrickrobinson_segments.csv,start_time,float64,49,49,3.009 \| 21.889 \| 50.5,3.009,1022.039
+proposal2_segments/carlpatrickrobinson_segments.csv,end_time,float64,49,49,7.809 \| 37.33 \| 51.08,7.809,1040.27
+proposal2_segments/carlpatrickrobinson_segments.csv,text,str,49,49,Firsthand insights for those who rely on accessible technology curated for designers and developers \| Hello my name is Carl I am using Toggling on and off gray scale color inversion uh to assist with accessibility \| So,,
+proposal2_segments/carlpatrickrobinson_segments.csv,participant,str,49,1,carlpatrickrobinson \| carlpatrickrobinson \| carlpatrickrobinson,,
+proposal2_segments/fjone7_segments.csv,segment_id,int64,377,377,0 \| 1 \| 2,0,377
+proposal2_segments/fjone7_segments.csv,start_time,float64,377,377,3.009 \| 20.6 \| 40.49,3.009,7540.14
+proposal2_segments/fjone7_segments.csv,end_time,float64,377,377,20.19 \| 39.869 \| 60.22,20.19,7559.839
+proposal2_segments/fjone7_segments.csv,text,str,377,377,Firsthand insights for those who rely on accessible technology curated for designers and developers OK Hi it's Fabian um \| the first in something new um looking into home and contents insurance and um Forgive me if I say the name completely in \| insurance of most kinds uh except for health insurance I know a little bit about that now not much um but moving on Uh t,,
+proposal2_segments/fjone7_segments.csv,participant,str,377,1,fjone7 \| fjone7 \| fjone7,,
+proposal2_segments/gameoverdan_segments.csv,segment_id,int64,181,181,0 \| 1 \| 2,0,180
+proposal2_segments/gameoverdan_segments.csv,start_time,float64,181,181,3.009 \| 20.76 \| 40.24,3.009,3600.87
+proposal2_segments/gameoverdan_segments.csv,end_time,float64,181,181,20.219 \| 40.24 \| 60.259,20.219,3608.76
+proposal2_segments/gameoverdan_segments.csv,text,str,181,173,Firsthand insights for those who rely on accessible technology curated for designers and developers Hi my name is Daniel \| um Uh it looks like the insurance website um so we're going to be having a look and reviewing the accessibility of that \| are pinch to zoom when needed pinch to zoom not available I've got the magnifier here and um you'll also notice that my,,
+proposal2_segments/gameoverdan_segments.csv,participant,str,181,1,gameoverdan \| gameoverdan \| gameoverdan,,
+proposal2_segments/ghum_segments.csv,segment_id,int64,274,274,0 \| 1 \| 2,0,273
+proposal2_segments/ghum_segments.csv,start_time,float64,274,274,3.009 \| 20.079 \| 40.139,3.009,5460.009
+proposal2_segments/ghum_segments.csv,end_time,float64,274,274,20.079 \| 39.83 \| 60.299,20.079,5465.439
+proposal2_segments/ghum_segments.csv,text,str,274,274,Firsthand insights for those who rely on accessible technology curated for designers and developers Recorded his compute \| like this is probably I'm just gonna do a very simple search this is actually what I want and then have a look at the re \| initially um sign up processes and so forth if they look relatively easy if the website's relatively well laid out give,,
+proposal2_segments/ghum_segments.csv,participant,str,274,1,ghum \| ghum \| ghum,,
+proposal2_segments/giuliaclemente26_segments.csv,segment_id,int64,106,106,0 \| 1 \| 2,0,105
+proposal2_segments/giuliaclemente26_segments.csv,start_time,float64,106,106,3.009 \| 21.399 \| 40.069,3.009,2100.129
+proposal2_segments/giuliaclemente26_segments.csv,end_time,float64,106,106,19.379 \| 40.069 \| 53.86,19.379,2118.32
+proposal2_segments/giuliaclemente26_segments.csv,text,str,106,106,Firsthand insights for those who rely on accessible technology curated for designers and developers Hello hello So My na \| Testing Um So what I'm gonna do now is I'm gonna share my screen OK All right So what I'm gonna do is \| I'm gonna look for um the best insurance provider Um let's see Mm,,
+proposal2_segments/giuliaclemente26_segments.csv,participant,str,106,1,giuliaclemente26 \| giuliaclemente26 \| giuliaclemente26,,
+proposal2_segments/gracieha22_segments.csv,segment_id,int64,67,67,0 \| 1 \| 2,0,66
+proposal2_segments/gracieha22_segments.csv,start_time,float64,67,67,3.009 \| 20.19 \| 40.24,3.009,1321.9
+proposal2_segments/gracieha22_segments.csv,end_time,float64,67,67,19.489 \| 40.24 \| 60.31,19.489,1325.079
+proposal2_segments/gracieha22_segments.csv,text,str,67,67,Firsthand insights for those who rely on accessible technology curated for designers and developers What I would like to \| cheap Home insurance OK we'll skip the AI part generally I would skip that So we've got NRMA Aldi Insurance Compare Mark \| style or something to compare the results I wouldn't specifically go into a website I would do a compare um comparisons,,
+proposal2_segments/gracieha22_segments.csv,participant,str,67,1,gracieha22 \| gracieha22 \| gracieha22,,
+proposal2_segments/info_segments.csv,segment_id,int64,196,196,0 \| 1 \| 2,0,195
+proposal2_segments/info_segments.csv,start_time,float64,196,196,3.009 \| 20.78 \| 40.119,3.009,3900.239
+proposal2_segments/info_segments.csv,end_time,float64,196,196,19.959 \| 39.52 \| 59.299,19.959,3921.669
+proposal2_segments/info_segments.csv,text,str,196,196,Firsthand insights for those who rely on accessible technology curated for designers and developers Hey Simmy please Mat \| home insurance Thank you Siri it's very good Excellent start Home insurance um so the things I'm gonna be looking for he \| Um and I wanna see if uh contents insurance is included if they can bundle them together and just basically check out wh,,
+proposal2_segments/info_segments.csv,participant,str,196,1,info \| info \| info,,
+proposal2_segments/laurenrosemetzler_segments.csv,segment_id,int64,171,171,0 \| 1 \| 2,0,170
+proposal2_segments/laurenrosemetzler_segments.csv,start_time,float64,171,171,3.009 \| 20.34 \| 40.189,3.009,3400.02
+proposal2_segments/laurenrosemetzler_segments.csv,end_time,float64,171,171,20.34 \| 40.049 \| 60.22,20.34,3405.82
+proposal2_segments/laurenrosemetzler_segments.csv,text,str,171,171,Firsthand insights for those who rely on accessible technology curated for designers and developers I am a customer expl \| options as I have just purchased my very first home So what I would want to know specifically um when I'm searching um F \| this gonna cost me um every month uh or year and are there what will be covered exactly Um and are there different optio,,
+proposal2_segments/laurenrosemetzler_segments.csv,participant,str,171,1,laurenrosemetzler \| laurenrosemetzler \| laurenrosemetzler,,
+proposal2_segments/margieflint_segments.csv,segment_id,int64,242,242,0 \| 1 \| 2,0,241
+proposal2_segments/margieflint_segments.csv,start_time,float64,242,242,3.009 \| 20.34 \| 41.409,3.009,4838.529
+proposal2_segments/margieflint_segments.csv,end_time,float64,242,242,20.04 \| 36.439 \| 60.439,20.04,4841.709
+proposal2_segments/margieflint_segments.csv,text,str,242,242,Firsthand insights for those who rely on accessible technology curated for designers and developers Hello uh the first t \| and open up a web page and try and find um I and try and look up a list of insurers Um for home and contents \| And see what comes up first So up comes first is home and contents and contents insurance from Budget Direct And Canstar,,
+proposal2_segments/margieflint_segments.csv,participant,str,242,1,margieflint \| margieflint \| margieflint,,
+proposal2_segments/marychaunguyen_segments.csv,segment_id,int64,181,181,0 \| 1 \| 2,0,180
+proposal2_segments/marychaunguyen_segments.csv,start_time,float64,181,181,3.009 \| 20.729 \| 41.43,3.009,3600.07
+proposal2_segments/marychaunguyen_segments.csv,end_time,float64,181,181,20.379 \| 39.889 \| 53.479,20.379,3620.77
+proposal2_segments/marychaunguyen_segments.csv,text,str,181,181,Firsthand insights for those who rely on accessible technology curated for designers and developers Hi this is Mary I'm \| looking at how I would use Google to search for um home and contents insurance So first of all yes I would go I would us \| So first I just basically would just search for um Best home and contents insurance I guess that's what I usually would,,
+proposal2_segments/marychaunguyen_segments.csv,participant,str,181,1,marychaunguyen \| marychaunguyen \| marychaunguyen,,
+proposal2_segments/mgblackwell2001_segments.csv,segment_id,int64,133,133,0 \| 1 \| 2,0,150
+proposal2_segments/mgblackwell2001_segments.csv,start_time,float64,133,133,3.009 \| 20.43 \| 41.479,3.009,3000.29
+proposal2_segments/mgblackwell2001_segments.csv,end_time,float64,133,133,20.43 \| 39.479 \| 60.099,20.43,3020.81
+proposal2_segments/mgblackwell2001_segments.csv,text,str,133,132,Firsthand insights for those who rely on accessible technology curated for designers and developers Ask Eames to underst \| insurance provider It explores the pathways that users follow the key questions they want to answer and their ability to \| For what you would want to know about home insurance but share your screen at the start your search the search terms phr,,
+proposal2_segments/mgblackwell2001_segments.csv,participant,str,133,1,mgblackwell2001 \| mgblackwell2001 \| mgblackwell2001,,
+proposal2_segments/oliviamitchell22_segments.csv,segment_id,int64,82,82,0 \| 1 \| 2,0,81
+proposal2_segments/oliviamitchell22_segments.csv,start_time,float64,82,82,3.009 \| 20.01 \| 40.299,3.009,1620.069
+proposal2_segments/oliviamitchell22_segments.csv,end_time,float64,82,82,20.01 \| 40.18 \| 60.29,20.01,1637.89
+proposal2_segments/oliviamitchell22_segments.csv,text,str,82,82,Firsthand insights for those who rely on accessible technology curated for designers and developers Hello it's Olivia he \| testing for Amy today I'm 27 years old I'm legally blind and I'm a guide dog handler um typically I would do these tasks \| but whenever a website is not compatible I'll then switch to voiceover which is like a screen reader So let's have a loo,,
+proposal2_segments/oliviamitchell22_segments.csv,participant,str,82,1,oliviamitchell22 \| oliviamitchell22 \| oliviamitchell22,,
+proposal2_segments/rae_segments.csv,segment_id,int64,278,278,0 \| 1 \| 2,0,283
+proposal2_segments/rae_segments.csv,start_time,float64,278,278,3.009 \| 20.079 \| 41.729,3.009,5665.609
+proposal2_segments/rae_segments.csv,end_time,float64,278,278,20.079 \| 38.86 \| 59.63,20.079,5668.799
+proposal2_segments/rae_segments.csv,text,str,278,278,Firsthand insights for those who rely on accessible technology curated for designers and developers So I'm doing task on \| home Um And contents Um insurance And I always like to put in Australia \| When I look things like this up only because sometimes Uh I get a little bit concerned um Sorry um You know is it going,,
+proposal2_segments/rae_segments.csv,participant,str,278,1,rae \| rae \| rae,,
+proposal2_segments/ramazankawish_segments.csv,segment_id,int64,236,236,0 \| 1 \| 2,0,236
+proposal2_segments/ramazankawish_segments.csv,start_time,float64,236,236,3.009 \| 21.93 \| 40.25,3.009,4720.859
+proposal2_segments/ramazankawish_segments.csv,end_time,float64,236,236,18.219 \| 40.25 \| 59.97,18.219,4729.02
+proposal2_segments/ramazankawish_segments.csv,text,str,236,236,Firsthand insights for those who rely on accessible technology curated for designers and developers Hi good evening Uh m \| On the insurance which is Which is the AAMI insurance So the first task is to go on Google and search for a home \| insurance and then explore the options um which ones are coming up which websites of the different insurance company and,,
+proposal2_segments/ramazankawish_segments.csv,participant,str,236,1,ramazankawish \| ramazankawish \| ramazankawish,,
+proposal2_segments/reececraigie_segments.csv,segment_id,int64,240,240,0 \| 1 \| 2,0,241
+proposal2_segments/reececraigie_segments.csv,start_time,float64,240,240,3.009 \| 20.42 \| 40.27,3.009,4820.18
+proposal2_segments/reececraigie_segments.csv,end_time,float64,240,240,20.309 \| 40.15 \| 60.189,20.309,4839.62
+proposal2_segments/reececraigie_segments.csv,text,str,240,239,Firsthand insights for those who rely on accessible technology curated for designers and developers Hello everyone my na \| So I'm just going to start the real world scenario um I'm just imagining that I've purchased my first home and I'm looki \| um I use Chrome as well so just opening a new tab um home and contents Insurance And I would say New South Wales Austral,,
+proposal2_segments/reececraigie_segments.csv,participant,str,240,1,reececraigie \| reececraigie \| reececraigie,,
+proposal2_segments/reneerussell99_segments.csv,segment_id,int64,108,108,0 \| 1 \| 2,0,149
+proposal2_segments/reneerussell99_segments.csv,start_time,float64,108,108,3.009 \| 20.479 \| 40.2,3.009,2980.219
+proposal2_segments/reneerussell99_segments.csv,end_time,float64,108,108,7.809 \| 40.2 \| 60.36,7.809,2991.219
+proposal2_segments/reneerussell99_segments.csv,text,str,108,104,Firsthand insights for those who rely on accessible technology curated for designers and developers \| So where I would start um searching for home and contents insurance um so I just typed in um best home and contents insu \| out to me um is the top one the Bank of Queensland Um because it's saying that you can get um free smart home sensors wi,,
+proposal2_segments/reneerussell99_segments.csv,participant,str,108,1,reneerussell99 \| reneerussell99 \| reneerussell99,,
+proposal2_segments/terryaflint17_segments.csv,segment_id,int64,247,247,0 \| 1 \| 2,0,252
+proposal2_segments/terryaflint17_segments.csv,start_time,float64,247,247,3.009 \| 20.27 \| 40.849,3.009,5040.56
+proposal2_segments/terryaflint17_segments.csv,end_time,float64,247,247,20.27 \| 39.229 \| 59.11,20.27,5053.649
+proposal2_segments/terryaflint17_segments.csv,text,str,247,247,Firsthand insights for those who rely on accessible technology curated for designers and developers OK Stage one I'm sor \| providers And in genuine exploring new shorts Pathways is rather Keu on enhancing the ability to go to with insurance Le \| For home and contents That sounds like that's what this Alright so what we do first thing we go to Google,,
+proposal2_segments/terryaflint17_segments.csv,participant,str,247,1,terryaflint17 \| terryaflint17 \| terryaflint17,,
+proposal2_segments/thanoptions_segments.csv,segment_id,int64,118,118,0 \| 1 \| 2,0,151
+proposal2_segments/thanoptions_segments.csv,start_time,float64,118,118,3.009 \| 21.61 \| 44.209,3.009,3023.02
+proposal2_segments/thanoptions_segments.csv,end_time,float64,118,118,18.989 \| 23.75 \| 60.009,18.989,3026.199
+proposal2_segments/thanoptions_segments.csv,text,str,118,113,Firsthand insights for those who rely on accessible technology curated for designers and developers So now I'm going to \| I'm searching for home insurance \| Actually you to compare that part of that one And uh market I'll choose that one because it's easy for me to get it mult,,
+proposal2_segments/thanoptions_segments.csv,participant,str,118,1,thanoptions \| thanoptions \| thanoptions,,
+proposal2_segments/troyparnell_segments.csv,segment_id,int64,2,2,0 \| 55,0,55
+proposal2_segments/troyparnell_segments.csv,start_time,float64,2,2,3.009 \| 1114.0,3.009,1114.0
+proposal2_segments/troyparnell_segments.csv,end_time,float64,2,2,7.809 \| 1117.18,7.809,1117.18
+proposal2_segments/troyparnell_segments.csv,text,str,2,2,Firsthand insights for those who rely on accessible technology curated for designers and developers \| www.seemeplea.com,,
+proposal2_segments/troyparnell_segments.csv,participant,str,2,1,troyparnell \| troyparnell,,
+proposal2_time_signal_result.csv,participant,str,138,19,asma \| asma \| asma,,
+proposal2_time_signal_result.csv,task_id,int64,138,11,1 \| 2 \| 4,1,11
+proposal2_time_signal_result.csv,task_title,str,138,11,Discovering insurance providers \| AAMI Website \| Navigation of sub-landing page – Product Information,,
+proposal2_time_signal_result.csv,approximate_start_time,str,138,106,00:00:03 \| 00:12:21 \| 00:26:40,,
+proposal2_time_signal_result.csv,approximate_end_time,str,138,132,00:12:21 \| 00:26:40 \| 00:41:45,,
+proposal2_time_signal_result.csv,confidence,str,138,3,high \| high \| medium,,
+proposal2_time_signal_result.csv,evidence_phrase,str,138,137,I am going to check for the website...Amy is one of the 2nd provider that comes in my list \| we have come with the second task about evaluating the AI website...how user-friendly it is \| task number 4 we're just deep diving into the different content in terms of product,,
+proposal2_time_signal_result.csv,start_dt,str,138,106,2026-05-07 00:00:03 \| 2026-05-07 00:12:21 \| 2026-05-07 00:26:40,,
+proposal2_time_signal_result.csv,end_dt,str,138,132,2026-05-07 00:12:21 \| 2026-05-07 00:26:40 \| 2026-05-07 00:41:45,,
+proposal2_time_signal_result.csv,start_seconds,int64,138,106,3 \| 741 \| 1600,3,6823
+proposal2_time_signal_result.csv,end_seconds,int64,138,132,741 \| 1600 \| 2505,60,7577
+proposal2_time_signal_result.csv,duration_seconds,int64,138,127,738 \| 859 \| 905,5,5051
+proposal2_time_signal_result.csv,duration_minutes,float64,138,127,12.3 \| 14.316666666666666 \| 15.083333333333334,0.0833333333333333,84.18333333333334
+proposal2_time_signal_result.csv,recommended_minutes,float64,138,3,10.0 \| 10.0 \| 10.0,0.5,15.0
+proposal2_time_signal_result.csv,participant_total_actual,float64,138,19,73.6 \| 73.6 \| 73.6,15.55,276.05
+proposal2_time_signal_result.csv,participant_total_recommended,float64,138,13,70.0 \| 70.0 \| 70.0,10.0,120.0
+proposal2_time_signal_result.csv,speed_factor,float64,138,19,1.0514285714285714 \| 1.0514285714285714 \| 1.0514285714285714,0.1555,5.038333333333333
+proposal2_time_signal_result.csv,normalized_duration,float64,138,136,11.698369565217392 \| 13.616394927536232 \| 14.3455615942029,0.0638240086909288,51.21338912133891
+proposal2_time_signal_result.csv,task_avg_normalized,float64,138,11,7.366532505126604 \| 9.020829667420715 \| 11.434050881512851,2.6790211303131173,21.182075928889567
+proposal2_time_signal_result.csv,time_ratio,float64,138,138,1.5880428895244982 \| 1.509439312074884 \| 1.2546351020177395,0.0052383980352086,3.707033133573717
+proposal2_time_signal_result.csv,time_signal,str,138,4,medium_time_friction \| medium_time_friction \| mild_time_friction,,
+suncorp-insurance-projects(1).csv,Name,str,1,1,AAMI website,,
+suncorp-insurance-projects(1).csv,Description,str,1,1,A comprehensive review of the AAMI website,,
+suncorp-insurance-projects(1).csv,Type,str,1,1,WEB,,
+suncorp-insurance-projects(1).csv,DeliveryDate,str,1,1,2026-02-10,,
+suncorp-insurance-projects(1).csv,AverageTimeToComplete,int64,1,1,90,90,90
+suncorp-insurance-projects(1).csv,NumberOfTestersComplete,int64,1,1,21,21,21
+suncorp-insurance-projects(1).csv,NumberOfTestersBlocked,int64,1,1,0,0,0
+suncorp-insurance-projects(1).csv,BlindCohortScore,int64,1,1,4,4,4
+suncorp-insurance-projects(1).csv,LowVisionCohortScore,float64,1,1,4.2,4.2,4.2
+suncorp-insurance-projects(1).csv,DeafCohortScore,float64,0,0,,,
+suncorp-insurance-projects(1).csv,CALDCohortScore,int64,1,1,4,4,4
+suncorp-insurance-projects(1).csv,NeurodivergentCohortScore,int64,1,1,3,3,3
+suncorp-insurance-projects(1).csv,OlderCohortScore,int64,1,1,3,3,3
+suncorp-insurance-projects(1).csv,AboriginalCohortScore,int64,1,1,1,1,1
+suncorp-insurance-projects(1).csv,OtherCohortScore,float64,0,0,,,
+suncorp-insurance-projects(1).csv,BlindCohortCount,int64,1,1,5,5,5
+suncorp-insurance-projects(1).csv,LowVisionCohortCount,int64,1,1,6,6,6
+suncorp-insurance-projects(1).csv,DeafCohortCount,int64,1,1,3,3,3
+suncorp-insurance-projects(1).csv,CALDCohortCount,int64,1,1,3,3,3
+suncorp-insurance-projects(1).csv,NeurodivergentCohortCount,int64,1,1,4,4,4
+suncorp-insurance-projects(1).csv,OlderCohortCount,int64,1,1,2,2,2
+suncorp-insurance-projects(1).csv,AboriginalCohortCount,int64,1,1,1,1,1
+suncorp-insurance-projects(1).csv,OtherCohortCount,float64,0,0,,,
+task_segmentation_combined.csv,participant,str,138,19,asma \| asma \| asma,,
+task_segmentation_combined.csv,task_id,int64,138,11,1 \| 2 \| 4,1,11
+task_segmentation_combined.csv,task_title,str,138,11,Discovering insurance providers \| AAMI Website \| Navigation of sub-landing page – Product Information,,
+task_segmentation_combined.csv,approximate_start_time,str,138,106,00:00:03 \| 00:12:21 \| 00:26:40,,
+task_segmentation_combined.csv,approximate_end_time,str,138,132,00:12:21 \| 00:26:40 \| 00:41:45,,
+task_segmentation_combined.csv,confidence,str,138,3,high \| high \| medium,,
+task_segmentation_combined.csv,evidence_phrase,str,138,137,I am going to check for the website...Amy is one of the 2nd provider that comes in my list \| we have come with the second task about evaluating the AI website...how user-friendly it is \| task number 4 we're just deep diving into the different content in terms of product,,
+tester_quality_features.csv,participant,str,21,21,asma \| carlpatrickrobinson \| fjone7,,
+tester_quality_features.csv,email,str,21,21,asmaosyan9@gmail.com \| carlpatrickrobinson@gmail.com \| fjone7@gmail.com,,
+tester_quality_features.csv,total_open_text_word_count,int64,21,21,328 \| 254 \| 1342,168,2289
+tester_quality_features.csv,average_open_answer_word_count,float64,21,21,13.67 \| 10.58 \| 55.92,7.0,95.38
+tester_quality_features.csv,number_of_open_answers,int64,21,1,24 \| 24 \| 24,24,24
+tester_quality_features.csv,number_of_non_empty_open_answers,int64,21,1,24 \| 24 \| 24,24,24
+tester_quality_features.csv,open_answer_completion_ratio,float64,21,1,1.0 \| 1.0 \| 1.0,1.0,1.0
+tester_quality_features.csv,vague_answer_count,int64,21,4,1 \| 2 \| 1,1,7
+tester_quality_features.csv,specific_issue_terms_count,int64,21,15,27 \| 27 \| 92,16,188
+tester_quality_features.csv,actionable_feedback_count,int64,21,13,14 \| 9 \| 15,5,18
+tester_quality_features.csv,number_of_tasks_attempted,int64,21,5,7 \| 8 \| 10,6,10
+tester_quality_features.csv,number_of_tasks_with_survey_response,int64,21,1,6 \| 6 \| 6,6,6
+tester_quality_features.csv,number_of_tasks_with_transcript_evidence,float64,19,8,6.0 \| 8.0 \| 10.0,1.0,10.0
+tester_quality_features.csv,task_coverage_ratio,float64,21,5,0.7 \| 0.8 \| 1.0,0.6,1.0
+tester_quality_features.csv,average_raw_survey_score,float64,21,10,67.5 \| 70.0 \| 77.5,57.5,87.5
+tester_quality_features.csv,average_l3_after_proposal2_time,float64,17,17,70.0 \| 72.55 \| 24.38,24.38,82.5
+tester_quality_features.csv,average_score_gap,float64,17,16,0.0 \| 4.95 \| 40.62,0.0,40.62
+tester_quality_features.csv,high_score_with_high_friction_count,int64,21,4,0 \| 0 \| 0,0,6
+tester_quality_features.csv,total_session_duration_minutes,float64,21,21,73.65 \| 16.82 \| 126.28,16.33,126.28
+tester_quality_features.csv,extremely_short_session_flag,bool,21,1,False \| False \| False,False,False
+tester_quality_features.csv,extremely_short_plus_no_feedback_flag,bool,21,1,False \| False \| False,False,False
+tester_quality_features.csv,survey_mentions_friction_count,int64,21,10,6 \| 10 \| 8,1,14
+tester_quality_features.csv,llm_friction_insight_count,int64,21,14,31 \| 11 \| 23,0,45
+tester_quality_features.csv,llm_high_severe_blocker_insight_count,int64,21,14,12 \| 2 \| 8,0,20
+tester_quality_features.csv,llm_blocker_insight_count,int64,21,5,1 \| 0 \| 1,0,4
+tester_quality_features.csv,proposal2_changed_rows,int64,21,4,0 \| 0 \| 0,0,4
+tester_quality_features.csv,segment_file,str,21,21,asma_segments.csv \| carlpatrickrobinson_segments.csv \| fjone7_segments.csv,,
+tester_quality_features.csv,transcript_word_count,int64,21,21,5870 \| 896 \| 16772,15,23626
+tester_quality_scores.csv,participant,str,21,21,fjone7 \| gracieha22 \| info,,
+tester_quality_scores.csv,email,str,21,21,fjone7@gmail.com \| gracieha22@gmail.com \| mattymc2@gmail.com,,
+tester_quality_scores.csv,primary_cohort,str,21,12,"Low Vision,Blind \| Low Vision,Deaf \| Blind",,
+tester_quality_scores.csv,tester_quality_score,float64,21,19,100.0 \| 100.0 \| 99.5,70.5,100.0
+tester_quality_scores.csv,tester_quality_band,str,21,2,high_quality \| high_quality \| high_quality,,
+tester_quality_scores.csv,feedback_depth_score,float64,21,12,100.0 \| 100.0 \| 100.0,64.5,100.0
+tester_quality_scores.csv,task_coverage_score,float64,21,5,100.0 \| 100.0 \| 100.0,72.0,100.0
+tester_quality_scores.csv,evidence_consistency_score,float64,20,10,100.0 \| 100.0 \| 98.0,47.0,100.0
+tester_quality_scores.csv,engagement_effort_score,float64,21,7,100.0 \| 100.0 \| 100.0,82.0,100.0
+tester_quality_scores.csv,available_dimensions,str,21,2,feedback_depth_score;task_coverage_score;evidence_consistency_score;engagement_effort_score \| feedback_depth_score;task_coverage_score;evidence_consistency_score;engagement_effort_score \| feedback_depth_score;task_coverage_score;evidence_consistency_score;engagement_effort_score,,
+tester_quality_scores.csv,missing_dimensions,str,1,1,evidence_consistency_score,,
+tester_quality_scores.csv,feedback_depth_reason,str,21,21,"Open-ended feedback is very detailed (1342 words), with 92 concrete issue/task terms and 15 actionable answers. \| Open-ended feedback is usable and reasonably specific (354 words, 28 concrete terms), though not uniformly detailed acro \| Open-ended feedback is usable and reasonably specific (508 words, 35 concrete terms), though not uniformly detailed acro",,
+tester_quality_scores.csv,task_coverage_reason,str,21,17,Coverage estimate uses 10 attempted/evidenced tasks against 10 expected non-excluded tasks; survey task score responses= \| Coverage estimate uses 10 attempted/evidenced tasks against 10 expected non-excluded tasks; survey task score responses= \| Coverage estimate uses 10 attempted/evidenced tasks against 10 expected non-excluded tasks; survey task score responses=,,
+tester_quality_scores.csv,evidence_consistency_reason,str,21,21,Average raw survey score=77.5 and average Proposal 2 L3 score=72.5; score gap=5.0. LLM insight high/severe/blocker count \| Average raw survey score=82.5 and average Proposal 2 L3 score=82.5; score gap=0.0. LLM insight high/severe/blocker count \| Average raw survey score=67.5 and average Proposal 2 L3 score=NA; score gap=NA. LLM insight high/severe/blocker count=12,,
+tester_quality_scores.csv,engagement_effort_reason,str,21,21,"Engagement uses survey completion ratio=1.00, open-answer completion=1.00, attempted/evidenced tasks=10, and session dur \| Engagement uses survey completion ratio=1.00, open-answer completion=1.00, attempted/evidenced tasks=10, and session dur \| Engagement uses survey completion ratio=1.00, open-answer completion=1.00, attempted/evidenced tasks=10, and session dur",,
+tester_quality_scores.csv,overall_quality_reason,str,21,19,"Overall score combines available dimensions (feedback_depth_score, task_coverage_score, evidence_consistency_score, enga \| Overall score combines available dimensions (feedback_depth_score, task_coverage_score, evidence_consistency_score, enga \| Overall score combines available dimensions (feedback_depth_score, task_coverage_score, evidence_consistency_score, enga",,
+tester_quality_scores.csv,review_flag,str,21,3,no_review_needed \| no_review_needed \| no_review_needed,,
+tester_quality_summary.csv,metric,str,19,19,number_of_testers \| average_tester_quality_score \| number_high_quality,,
+tester_quality_summary.csv,value,float64,19,12,21.0 \| 93.02 \| 19.0,0.0,97.71
+unmatched_tester_quality_participants.csv,participant,str,1,1,troyparnell,,
+unmatched_tester_quality_participants.csv,email,str,1,1,troyparnell@hotmail.com,,
+unmatched_tester_quality_participants.csv,missing_area,str,1,1,external_evidence_mapping,,
+unmatched_tester_quality_participants.csv,reason,str,1,1,"Raw survey participant could not be matched to Proposal 2/model rows, LLM insights, or manual-review evidence. Survey an",,
